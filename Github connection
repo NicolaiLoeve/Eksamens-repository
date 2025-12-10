@@ -1,0 +1,125 @@
+Her kommer en step-by-step guide til at opsætte github forbindelse med en AWS EC2 server (windows)
+# Git Guide for EC2 Server (Branch: OLA-5)
+
+Denne guide beskriver, hvordan vores EC2-server er sat op til at arbejde direkte sammen med GitHub, og hvordan man manuelt uploader (committer & pushe) logfiler og projektfiler fra serveren til repositoryet. Guiden kan bruges af alle gruppemedlemmer og er skrevet, så man kan følge den punkt for punkt.
+
+---
+
+# 🟦 1. Førstegangsopsætning (skal kun gøres én gang)
+
+## 1.1 Navigér til projektmappen
+Åbn Command Prompt på EC2-serveren og gå til projektmappen:
+cd C:\Users\Administrator\Documents\Eksamens-repository
+
+
+## 1.2 Kontroller at du står på den rigtige branch
+git status
+
+Du skal stå på: **Branch: OLA-5**
+
+Hvis ikke, skift branch:
+git checkout OLA-5
+
+
+## 1.3 GitHub-login (PAT-token)
+Første gang du kører `git push`, spørger Git om login:
+- Username = dit GitHub-brugernavn  
+- Password = dit PAT-token (ikke dit GitHub password)
+
+Når du har logget ind én gang, husker serveren det.
+
+---
+
+#  2. Mappestruktur (vigtigt for at Git virker)
+
+Projektmappen skal ligge inde i repoet:
+C:\Users\Administrator\Documents\Eksamens-repository\afw_project\
+
+Indhold:
+logs/
+scripts/
+afw_collect.log
+test_run.log
+afw_collect.R
+afw_collect_v2.R
+
+Hvis `afw_project` ligger et andet sted, skal den flyttes ind i repoet.
+
+---
+
+# 🟦 3. Workflow til manuel upload (bruges hver gang)
+
+Når EC2 har genereret en ny logfil eller ændret scripts, gør du dette:
+
+## 🔵 Step 1: Gå til projektmappen
+cd C:\Users\Administrator\Documents\Eksamens-repository
+
+## 🔵 Step 2: Tjek ændringer
+git status
+
+## 🔵 Step 3: Tilføj ændrede filer
+
+Kun logfil:
+git add afw_project\logs\afw_collect.log
+
+Hele projektmappen:
+git add afw_project
+
+
+## 🔵 Step 4: Commit ændringerne
+git commit -m "Update log from EC2 at %date% %time%"
+
+## 🔵 Step 5: Push til GitHub
+git push origin OLA-5
+
+---
+
+# 🟦 4. Eksempel på et fuldt push-forløb
+
+git status
+git add afw_project
+git commit -m "Add afw_project directory from EC2 server"
+git push origin OLA-5
+
+Typisk output:
+6 files changed, 1182 insertions(+)
+create mode afw_project/logs/afw_collect.log
+create mode afw_project/scripts/afw_collect.R
+To https://github.com/NicolaiLoeve/Eksamens-repository.git
+
+---
+
+# 🟦 5. Hurtig fejlfinding
+
+❗ Untracked files  
+→ Du mangler:  
+git add afw_project
+
+❗ Nothing to commit  
+→ Ingen ændringer.
+
+❗ Everything up to date  
+→ Intet at pushe.
+
+❗ Git spørger efter login  
+→ Brug PAT-tokenet som password.
+
+❗ Forkert branch  
+→ Skift med:  
+git checkout OLA-5
+
+---
+
+# 🟦 6. Ultra kort version (cheat sheet)
+
+cd C:\Users\Administrator\Documents\Eksamens-repository
+git status
+git add afw_project\logs\afw_collect.log
+git commit -m "Update log at %date% %time%"
+git push origin OLA-5
+
+---
+
+# 🟩 Færdig!
+
+EC2-serveren kan nu manuelt uploade logfiler og projektfiler til GitHub. Dette sikrer versionsstyring, dokumentation og fælles adgang til projektets filer.
