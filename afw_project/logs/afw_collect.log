@@ -1,0 +1,824 @@
+2025-12-04 19:58:40.490414 - Starter API-kald for postnummer 2300 
+2025-12-04 19:58:40.931619 - HTTP status: 200 
+2025-12-04 19:58:41.079551 - Antal tilbud hentet: 20 
+2025-12-04 19:58:41.088358 - Script færdigt 
+2025-12-04 20:59:13.244408 - Starter API-kald for postnummer 2300 
+2025-12-04 20:59:13.736793 - HTTP status: 200 
+2025-12-04 20:59:13.924518 - Antal tilbud hentet: 20 
+2025-12-04 20:59:13.928379 - Forsøger at forbinde til MySQL 
+2025-12-04 20:59:13.989941 - MySQL-forbindelse OK 
+2025-12-04 20:59:13.995654 - Script færdigt 
+2025-12-04 21:07:05.633592 - Starter API-kald for postnummer 2300 
+2025-12-04 21:07:05.904971 - HTTP status: 200 
+2025-12-04 21:07:06.107441 - Butik fra API: Bilka One Stop, Fields | Arne Jacobsens Alle 24 2300 København S | brand: bilka | id: 7feb6abe-ab40-4148-84b8-429c3d740cc5 2025-12-04 21:07:06.107441 - Butik fra API: føtex Amagerbrogade | Amagerbrogade 290 2300 København S | brand: foetex | id: fc38a711-6083-4341-ab92-78e0e54252ac 2025-12-04 21:07:06.107441 - Butik fra API: føtex Amager Centret | Reberbanegade 3 2300 København S | brand: foetex | id: 7319551d-ed5e-4e6a-ae59-064758e0c5c2 2025-12-04 21:07:06.107441 - Butik fra API: føtex DR Byen | Amagerfælledvej 102 2300 København S | brand: foetex | id: 4f9234e8-e054-4143-aa58-da4b389a1a75 2025-12-04 21:07:06.107441 - Butik fra API: Netto Chr. Møllers Plads | Christmas Møllers Pl. 3-5 2300 København S | brand: netto | id: 6cb6a8b2-3a26-48ba-87dd-4c4c215c1b64 2025-12-04 21:07:06.107441 - Butik fra API: Netto Kastrupvej | Kastrupvej 109-111 2300 København S | brand: netto | id: a8f29c70-d427-4b30-b0e1-b0934fb0d5c7 2025-12-04 21:07:06.107441 - Butik fra API: Netto Amagerbrogade, Amagerbro | Amagerbrogade 54 2300 København S | brand: netto | id: 2e7e4a1f-352b-4fdc-b4e4-8f4384e5a5d7 2025-12-04 21:07:06.107441 - Butik fra API: Netto Bella | Michael Strunges Vej 13 2300 København S | brand: netto | id: b3c7071f-5db7-4722-b2e4-2b614bb31686 2025-12-04 21:07:06.107441 - Butik fra API: Netto Axel Heidesgade Kbh | Axel Heides Gade 7 C 2300 København S | brand: netto | id: 82595089-fc63-4fd5-a481-94140ecb2e2c 2025-12-04 21:07:06.107441 - Butik fra API: Netto Sadolinparken | Lyneborggade 5-7 2300 København S | brand: netto | id: 6ba6a678-77c9-4368-910f-b65c421ae59a 2025-12-04 21:07:06.107441 - Butik fra API: Netto Amagerbrogade, Sundby Vester Pl. | Amagerbrogade 239 2300 København S | brand: netto | id: 75bf0949-0fe2-4e83-8e85-e71d98844f0f 2025-12-04 21:07:06.107441 - Butik fra API: Netto Hollænderdybet | Hollænderdybet 3-5 2300 København S | brand: netto | id: 1d692e16-0ff9-4b3f-938e-1a755682fbcd 2025-12-04 21:07:06.107441 - Butik fra API: Netto Kirkegaardssvej | Kirkegaardsvej 6, ST 2300 København S | brand: netto | id: b65534bf-4371-4210-8a06-6219fab96f80 2025-12-04 21:07:06.107441 - Butik fra API: Netto Bachersvej | Bachersvej 19 2300 København S | brand: netto | id: 7bde9d6f-8928-4eea-ba67-ac6c4ea5e8db 2025-12-04 21:07:06.107441 - Butik fra API: Netto Kongelundsvej | Kongelundsvej 49 2300 København S | brand: netto | id: 37897bf3-e2bc-48bd-8dc4-34c8104d0d97 2025-12-04 21:07:06.107441 - Butik fra API: Netto DR Byen | Amagerfælledvej 170 2300 København S. | brand: netto | id: 7ad81f8a-ed1f-4d77-b726-5742ce15fd9b 2025-12-04 21:07:06.107441 - Butik fra API: Netto Islands Brygge | Islands Brygge 58A 2300 København | brand: netto | id: b1130d37-2505-4355-862b-01485c7620e7 2025-12-04 21:07:06.107441 - Butik fra API: Netto Femøren | Jorisvej 1, ST. 2300 København S | brand: netto | id: 37e65637-451c-4dfd-a778-eb86a9cdc216 2025-12-04 21:07:06.107441 - Butik fra API: Netto Royal Arena | Ørestads Boulevard 126 2300 København S. | brand: netto | id: 7a933a8f-7c8d-40d8-b387-661ab794d94b 2025-12-04 21:07:06.107441 - Butik fra API: Netto Amagerbrogade Byggenummer | Amagerbrogade 62 2300 København S. | brand: netto | id: 79e62874-0f4b-4a18-90fa-0d94b49fd019 
+2025-12-04 21:07:06.24119 - Antal tilbud hentet: 20 
+2025-12-04 21:07:06.306387 - Forsøger at forbinde til MySQL 
+2025-12-04 21:07:06.316831 - MySQL-forbindelse OK 
+2025-12-04 21:07:06.322154 - Script færdigt 
+2025-12-04 21:30:58.97751 - Starter API-kald for postnummer 2300 
+2025-12-04 21:30:59.46545 - HTTP status: 200 
+2025-12-04 21:30:59.658338 - Butik fra API: Bilka One Stop, Fields | Arne Jacobsens Alle 24 2300 København S | brand: bilka | id: 7feb6abe-ab40-4148-84b8-429c3d740cc5 2025-12-04 21:30:59.658338 - Butik fra API: føtex Amagerbrogade | Amagerbrogade 290 2300 København S | brand: foetex | id: fc38a711-6083-4341-ab92-78e0e54252ac 2025-12-04 21:30:59.658338 - Butik fra API: føtex Amager Centret | Reberbanegade 3 2300 København S | brand: foetex | id: 7319551d-ed5e-4e6a-ae59-064758e0c5c2 2025-12-04 21:30:59.658338 - Butik fra API: føtex DR Byen | Amagerfælledvej 102 2300 København S | brand: foetex | id: 4f9234e8-e054-4143-aa58-da4b389a1a75 2025-12-04 21:30:59.658338 - Butik fra API: Netto Chr. Møllers Plads | Christmas Møllers Pl. 3-5 2300 København S | brand: netto | id: 6cb6a8b2-3a26-48ba-87dd-4c4c215c1b64 2025-12-04 21:30:59.658338 - Butik fra API: Netto Kastrupvej | Kastrupvej 109-111 2300 København S | brand: netto | id: a8f29c70-d427-4b30-b0e1-b0934fb0d5c7 2025-12-04 21:30:59.658338 - Butik fra API: Netto Amagerbrogade, Amagerbro | Amagerbrogade 54 2300 København S | brand: netto | id: 2e7e4a1f-352b-4fdc-b4e4-8f4384e5a5d7 2025-12-04 21:30:59.658338 - Butik fra API: Netto Bella | Michael Strunges Vej 13 2300 København S | brand: netto | id: b3c7071f-5db7-4722-b2e4-2b614bb31686 2025-12-04 21:30:59.658338 - Butik fra API: Netto Axel Heidesgade Kbh | Axel Heides Gade 7 C 2300 København S | brand: netto | id: 82595089-fc63-4fd5-a481-94140ecb2e2c 2025-12-04 21:30:59.658338 - Butik fra API: Netto Sadolinparken | Lyneborggade 5-7 2300 København S | brand: netto | id: 6ba6a678-77c9-4368-910f-b65c421ae59a 2025-12-04 21:30:59.658338 - Butik fra API: Netto Amagerbrogade, Sundby Vester Pl. | Amagerbrogade 239 2300 København S | brand: netto | id: 75bf0949-0fe2-4e83-8e85-e71d98844f0f 2025-12-04 21:30:59.658338 - Butik fra API: Netto Hollænderdybet | Hollænderdybet 3-5 2300 København S | brand: netto | id: 1d692e16-0ff9-4b3f-938e-1a755682fbcd 2025-12-04 21:30:59.658338 - Butik fra API: Netto Kirkegaardssvej | Kirkegaardsvej 6, ST 2300 København S | brand: netto | id: b65534bf-4371-4210-8a06-6219fab96f80 2025-12-04 21:30:59.658338 - Butik fra API: Netto Bachersvej | Bachersvej 19 2300 København S | brand: netto | id: 7bde9d6f-8928-4eea-ba67-ac6c4ea5e8db 2025-12-04 21:30:59.658338 - Butik fra API: Netto Kongelundsvej | Kongelundsvej 49 2300 København S | brand: netto | id: 37897bf3-e2bc-48bd-8dc4-34c8104d0d97 2025-12-04 21:30:59.658338 - Butik fra API: Netto DR Byen | Amagerfælledvej 170 2300 København S. | brand: netto | id: 7ad81f8a-ed1f-4d77-b726-5742ce15fd9b 2025-12-04 21:30:59.658338 - Butik fra API: Netto Islands Brygge | Islands Brygge 58A 2300 København | brand: netto | id: b1130d37-2505-4355-862b-01485c7620e7 2025-12-04 21:30:59.658338 - Butik fra API: Netto Femøren | Jorisvej 1, ST. 2300 København S | brand: netto | id: 37e65637-451c-4dfd-a778-eb86a9cdc216 2025-12-04 21:30:59.658338 - Butik fra API: Netto Royal Arena | Ørestads Boulevard 126 2300 København S. | brand: netto | id: 7a933a8f-7c8d-40d8-b387-661ab794d94b 2025-12-04 21:30:59.658338 - Butik fra API: Netto Amagerbrogade Byggenummer | Amagerbrogade 62 2300 København S. | brand: netto | id: 79e62874-0f4b-4a18-90fa-0d94b49fd019 
+2025-12-04 21:30:59.789117 - Antal tilbud hentet: 20 
+2025-12-04 21:30:59.856411 - Forsøger at forbinde til MySQL 
+2025-12-04 21:30:59.868249 - MySQL-forbindelse OK 
+2025-12-04 21:30:59.922859 - Indsat/opf. butik i DB: Bilka One Stop, Fields | 2300 København S 
+2025-12-04 21:30:59.930381 - Script færdigt 
+2025-12-04 21:54:54.805766 - Starter API-kald for postnummer 2300 
+2025-12-04 21:54:55.326913 - HTTP status: 200 
+2025-12-04 21:54:55.518015 - Butik fra API: Bilka One Stop, Fields | Arne Jacobsens Alle 24 2300 København S | brand: bilka | id: 7feb6abe-ab40-4148-84b8-429c3d740cc5 2025-12-04 21:54:55.518015 - Butik fra API: føtex Amagerbrogade | Amagerbrogade 290 2300 København S | brand: foetex | id: fc38a711-6083-4341-ab92-78e0e54252ac 2025-12-04 21:54:55.518015 - Butik fra API: føtex Amager Centret | Reberbanegade 3 2300 København S | brand: foetex | id: 7319551d-ed5e-4e6a-ae59-064758e0c5c2 2025-12-04 21:54:55.518015 - Butik fra API: føtex DR Byen | Amagerfælledvej 102 2300 København S | brand: foetex | id: 4f9234e8-e054-4143-aa58-da4b389a1a75 2025-12-04 21:54:55.518015 - Butik fra API: Netto Chr. Møllers Plads | Christmas Møllers Pl. 3-5 2300 København S | brand: netto | id: 6cb6a8b2-3a26-48ba-87dd-4c4c215c1b64 2025-12-04 21:54:55.518015 - Butik fra API: Netto Kastrupvej | Kastrupvej 109-111 2300 København S | brand: netto | id: a8f29c70-d427-4b30-b0e1-b0934fb0d5c7 2025-12-04 21:54:55.518015 - Butik fra API: Netto Amagerbrogade, Amagerbro | Amagerbrogade 54 2300 København S | brand: netto | id: 2e7e4a1f-352b-4fdc-b4e4-8f4384e5a5d7 2025-12-04 21:54:55.518015 - Butik fra API: Netto Bella | Michael Strunges Vej 13 2300 København S | brand: netto | id: b3c7071f-5db7-4722-b2e4-2b614bb31686 2025-12-04 21:54:55.518015 - Butik fra API: Netto Axel Heidesgade Kbh | Axel Heides Gade 7 C 2300 København S | brand: netto | id: 82595089-fc63-4fd5-a481-94140ecb2e2c 2025-12-04 21:54:55.518015 - Butik fra API: Netto Sadolinparken | Lyneborggade 5-7 2300 København S | brand: netto | id: 6ba6a678-77c9-4368-910f-b65c421ae59a 2025-12-04 21:54:55.518015 - Butik fra API: Netto Amagerbrogade, Sundby Vester Pl. | Amagerbrogade 239 2300 København S | brand: netto | id: 75bf0949-0fe2-4e83-8e85-e71d98844f0f 2025-12-04 21:54:55.518015 - Butik fra API: Netto Hollænderdybet | Hollænderdybet 3-5 2300 København S | brand: netto | id: 1d692e16-0ff9-4b3f-938e-1a755682fbcd 2025-12-04 21:54:55.518015 - Butik fra API: Netto Kirkegaardssvej | Kirkegaardsvej 6, ST 2300 København S | brand: netto | id: b65534bf-4371-4210-8a06-6219fab96f80 2025-12-04 21:54:55.518015 - Butik fra API: Netto Bachersvej | Bachersvej 19 2300 København S | brand: netto | id: 7bde9d6f-8928-4eea-ba67-ac6c4ea5e8db 2025-12-04 21:54:55.518015 - Butik fra API: Netto Kongelundsvej | Kongelundsvej 49 2300 København S | brand: netto | id: 37897bf3-e2bc-48bd-8dc4-34c8104d0d97 2025-12-04 21:54:55.518015 - Butik fra API: Netto DR Byen | Amagerfælledvej 170 2300 København S. | brand: netto | id: 7ad81f8a-ed1f-4d77-b726-5742ce15fd9b 2025-12-04 21:54:55.518015 - Butik fra API: Netto Islands Brygge | Islands Brygge 58A 2300 København | brand: netto | id: b1130d37-2505-4355-862b-01485c7620e7 2025-12-04 21:54:55.518015 - Butik fra API: Netto Femøren | Jorisvej 1, ST. 2300 København S | brand: netto | id: 37e65637-451c-4dfd-a778-eb86a9cdc216 2025-12-04 21:54:55.518015 - Butik fra API: Netto Royal Arena | Ørestads Boulevard 126 2300 København S. | brand: netto | id: 7a933a8f-7c8d-40d8-b387-661ab794d94b 2025-12-04 21:54:55.518015 - Butik fra API: Netto Amagerbrogade Byggenummer | Amagerbrogade 62 2300 København S. | brand: netto | id: 79e62874-0f4b-4a18-90fa-0d94b49fd019 
+2025-12-04 21:54:55.649835 - Antal tilbud hentet: 20 
+2025-12-04 21:54:55.658793 - Forsøger at forbinde til MySQL 
+2025-12-04 21:54:55.729727 - MySQL-forbindelse OK 
+2025-12-04 21:54:55.733084 - Antal butikker fra API: 20 
+2025-12-04 21:54:55.768868 - Indsat/opf. butik i DB: Bilka One Stop, Fields | 2300 København S 
+2025-12-04 21:54:55.785732 - Indsat/opf. butik i DB: føtex Amagerbrogade | 2300 København S 
+2025-12-04 21:54:55.79684 - Indsat/opf. butik i DB: føtex Amager Centret | 2300 København S 
+2025-12-04 21:54:55.807588 - Indsat/opf. butik i DB: føtex DR Byen | 2300 København S 
+2025-12-04 21:54:55.8253 - Indsat/opf. butik i DB: Netto Chr. Møllers Plads | 2300 København S 
+2025-12-04 21:54:55.83593 - Indsat/opf. butik i DB: Netto Kastrupvej | 2300 København S 
+2025-12-04 21:54:55.852138 - Indsat/opf. butik i DB: Netto Amagerbrogade, Amagerbro | 2300 København S 
+2025-12-04 21:54:55.863634 - Indsat/opf. butik i DB: Netto Bella | 2300 København S 
+2025-12-04 21:54:55.877951 - Indsat/opf. butik i DB: Netto Axel Heidesgade Kbh | 2300 København S 
+2025-12-04 21:54:55.888859 - Indsat/opf. butik i DB: Netto Sadolinparken | 2300 København S 
+2025-12-04 21:54:55.900585 - Indsat/opf. butik i DB: Netto Amagerbrogade, Sundby Vester Pl. | 2300 København S 
+2025-12-04 21:54:55.919398 - Indsat/opf. butik i DB: Netto Hollænderdybet | 2300 København S 
+2025-12-04 21:54:55.930613 - Indsat/opf. butik i DB: Netto Kirkegaardssvej | 2300 København S 
+2025-12-04 21:54:55.946723 - Indsat/opf. butik i DB: Netto Bachersvej | 2300 København S 
+2025-12-04 21:54:55.959304 - Indsat/opf. butik i DB: Netto Kongelundsvej | 2300 København S 
+2025-12-04 21:54:55.97235 - Indsat/opf. butik i DB: Netto DR Byen | 2300 København S. 
+2025-12-04 21:54:55.982399 - Indsat/opf. butik i DB: Netto Islands Brygge | 2300 København 
+2025-12-04 21:54:55.994339 - Indsat/opf. butik i DB: Netto Femøren | 2300 København S 
+2025-12-04 21:54:56.010374 - Indsat/opf. butik i DB: Netto Royal Arena | 2300 København S. 
+2025-12-04 21:54:56.021926 - Indsat/opf. butik i DB: Netto Amagerbrogade Byggenummer | 2300 København S. 
+2025-12-04 21:54:56.037653 - Script færdigt 
+2025-12-04 22:24:51.877559 - === Starter API-kald for postnummer: 2300 === 
+2025-12-04 22:24:52.339783 - HTTP status for 2300 : 200 
+2025-12-04 22:24:52.578616 - Tilbud fundet i 2300 : 20 
+2025-12-04 22:24:52.585853 - DB-forbindelse OK 
+2025-12-04 22:24:52.588529 - Butikker fundet i 2300 : 20 
+2025-12-04 22:24:52.601736 - Gemt butik: Bilka One Stop, Fields | 2300 København S 
+2025-12-04 22:24:52.611617 - Gemt butik: føtex Amagerbrogade | 2300 København S 
+2025-12-04 22:24:52.620691 - Gemt butik: føtex Amager Centret | 2300 København S 
+2025-12-04 22:24:52.632852 - Gemt butik: føtex DR Byen | 2300 København S 
+2025-12-04 22:24:52.640466 - Gemt butik: Netto Chr. Møllers Plads | 2300 København S 
+2025-12-04 22:24:52.648636 - Gemt butik: Netto Kastrupvej | 2300 København S 
+2025-12-04 22:24:52.656143 - Gemt butik: Netto Amagerbrogade, Amagerbro | 2300 København S 
+2025-12-04 22:24:52.668013 - Gemt butik: Netto Bella | 2300 København S 
+2025-12-04 22:24:52.675311 - Gemt butik: Netto Axel Heidesgade Kbh | 2300 København S 
+2025-12-04 22:24:52.682971 - Gemt butik: Netto Sadolinparken | 2300 København S 
+2025-12-04 22:24:52.695886 - Gemt butik: Netto Amagerbrogade, Sundby Vester Pl. | 2300 København S 
+2025-12-04 22:24:52.705683 - Gemt butik: Netto Hollænderdybet | 2300 København S 
+2025-12-04 22:24:52.713469 - Gemt butik: Netto Kirkegaardssvej | 2300 København S 
+2025-12-04 22:24:52.724099 - Gemt butik: Netto Bachersvej | 2300 København S 
+2025-12-04 22:24:52.731532 - Gemt butik: Netto Kongelundsvej | 2300 København S 
+2025-12-04 22:24:52.740241 - Gemt butik: Netto DR Byen | 2300 København S. 
+2025-12-04 22:24:52.74869 - Gemt butik: Netto Islands Brygge | 2300 København 
+2025-12-04 22:24:52.757069 - Gemt butik: Netto Femøren | 2300 København S 
+2025-12-04 22:24:52.765593 - Gemt butik: Netto Royal Arena | 2300 København S. 
+2025-12-04 22:24:52.77535 - Gemt butik: Netto Amagerbrogade Byggenummer | 2300 København S. 
+2025-12-04 22:24:52.789648 - Færdig med postnummer: 2300 
+2025-12-04 22:24:52.79402 - === Starter API-kald for postnummer: 2200 === 
+2025-12-04 22:24:53.052803 - HTTP status for 2200 : 200 
+2025-12-04 22:24:53.121148 - Tilbud fundet i 2200 : 12 
+2025-12-04 22:24:53.163981 - DB-forbindelse OK 
+2025-12-04 22:24:53.167339 - Butikker fundet i 2200 : 12 
+2025-12-04 22:24:53.184302 - Gemt butik: føtex Nørrebro | 2200 København N 
+2025-12-04 22:24:53.196485 - Gemt butik: Netto Rantzausgade | 2200 København N 
+2025-12-04 22:24:53.212138 - Gemt butik: Netto Tagensvej 85 | 2200 København N 
+2025-12-04 22:24:53.231769 - Gemt butik: Netto Nørrebrogade | 2200 København N 
+2025-12-04 22:24:53.241854 - Gemt butik: Netto Hillerødgade | 2200 København N 
+2025-12-04 22:24:53.253445 - Gemt butik: Netto Tagensvej | 2200 København N 
+2025-12-04 22:24:53.266774 - Gemt butik: Netto Nørrebrogade 170 | 2200 København N 
+2025-12-04 22:24:53.286291 - Gemt butik: Netto Borgmestervangen | 2200 København N 
+2025-12-04 22:24:53.307388 - Gemt butik: Netto Blågårdsgade | 2200 København N 
+2025-12-04 22:24:53.321085 - Gemt butik: Netto Hamletsgade | 2200 København N 
+2025-12-04 22:24:53.33096 - Gemt butik: føtex City Jagtvej | 2200 København N 
+2025-12-04 22:24:53.340872 - Gemt butik: føtex City Nørrebrogade | 2200 København N 
+2025-12-04 22:24:53.354097 - Færdig med postnummer: 2200 
+2025-12-04 22:24:53.360267 - === Starter API-kald for postnummer: 2100 === 
+2025-12-04 22:24:53.56215 - HTTP status for 2100 : 200 
+2025-12-04 22:24:53.666927 - Tilbud fundet i 2100 : 16 
+2025-12-04 22:24:53.672982 - DB-forbindelse OK 
+2025-12-04 22:24:53.676311 - Butikker fundet i 2100 : 16 
+2025-12-04 22:24:53.687299 - Gemt butik: føtex Østerbro Centret | 2100 København Ø 
+2025-12-04 22:24:53.69871 - Gemt butik: Netto Østerbrogade Kb | 2100 København Ø 
+2025-12-04 22:24:53.709866 - Gemt butik: Netto Øbro | 2100 København Ø 
+2025-12-04 22:24:53.722151 - Gemt butik: Netto Lyngbyvej 34 | 2100 København Ø 
+2025-12-04 22:24:53.737154 - Gemt butik: Netto Amerika Plads | 2100 København Ø 
+2025-12-04 22:24:53.748862 - Gemt butik: Netto Lyngbyvej 165-167 | 2100 København Ø 
+2025-12-04 22:24:53.767331 - Gemt butik: Netto Korsørgade | 2100 København Ø 
+2025-12-04 22:24:53.778674 - Gemt butik: Netto Blegdamsvej 124 | 2100 København Ø 
+2025-12-04 22:24:53.793293 - Gemt butik: Netto Østerbrogade 79 | 2100 København Ø 
+2025-12-04 22:24:53.804089 - Gemt butik: Netto Østerbrogade | 2100 København Ø 
+2025-12-04 22:24:53.814514 - Gemt butik: Netto Studsgaardsgade | 2100 København Ø 
+2025-12-04 22:24:53.828017 - Gemt butik: Netto Nygårdsvej | 2100 København Ø 
+2025-12-04 22:24:53.838236 - Gemt butik: Netto Ndr. Frihavnsgade | 2100 København Ø 
+2025-12-04 22:24:53.850565 - Gemt butik: Netto Æbeløgade | 2100 København Ø 
+2025-12-04 22:24:53.866472 - Gemt butik: Tjæpt Blegdamsvej | 2100 København Ø 
+2025-12-04 22:24:53.87978 - Gemt butik: føtex City Østerbro | 2100 København Ø 
+2025-12-04 22:24:53.88938 - Færdig med postnummer: 2100 
+2025-12-04 22:24:53.893778 - === Starter API-kald for postnummer: 2000 === 
+2025-12-04 22:24:54.085426 - HTTP status for 2000 : 200 
+2025-12-04 22:24:54.176814 - Tilbud fundet i 2000 : 9 
+2025-12-04 22:24:54.182676 - DB-forbindelse OK 
+2025-12-04 22:24:54.186054 - Butikker fundet i 2000 : 9 
+2025-12-04 22:24:54.199953 - Gemt butik: føtex Nordre Fasanvej | 2000 Frederiksberg 
+2025-12-04 22:24:54.211943 - Gemt butik: føtex Frederiksberg Centret | 2000 Frederiksberg 
+2025-12-04 22:24:54.22389 - Gemt butik: Netto Finsensvej | 2000 Frederiksberg 
+2025-12-04 22:24:54.234005 - Gemt butik: Netto Godthåbsvej 74 | 2000 Frederiksberg 
+2025-12-04 22:24:54.245857 - Gemt butik: Netto Godthåbsvej/Roxy | 2000 Frederiksberg 
+2025-12-04 22:24:54.266054 - Gemt butik: Netto Frederiksberg | 2000 Frederiksberg 
+2025-12-04 22:24:54.277208 - Gemt butik: Netto Borgmest. Fisch. Vej | 2000 Frederiksberg 
+2025-12-04 22:24:54.295478 - Gemt butik: Netto Peter Bangs Vej | 2000 Frederiksberg 
+2025-12-04 22:24:54.307587 - Gemt butik: Netto Peter Bangs Vej 24-28 | 2000 Frederiksberg 
+2025-12-04 22:24:54.316574 - Færdig med postnummer: 2000 
+2025-12-04 22:30:47.984321 - === Starter API-kald for postnummer: 2300 === 
+2025-12-04 22:30:48.312349 - HTTP status for 2300 : 200 
+2025-12-04 22:30:48.509553 - Tilbud fundet i 2300 : 20 
+2025-12-04 22:30:48.517041 - DB-forbindelse OK 
+2025-12-04 22:30:48.519794 - Butikker fundet i 2300 : 20 
+2025-12-04 22:30:48.530756 - Gemt butik: Bilka One Stop, Fields | 2300 København S 
+2025-12-04 22:30:48.540015 - Gemt butik: føtex Amagerbrogade | 2300 København S 
+2025-12-04 22:30:48.547558 - Gemt butik: føtex Amager Centret | 2300 København S 
+2025-12-04 22:30:48.554851 - Gemt butik: føtex DR Byen | 2300 København S 
+2025-12-04 22:30:48.561991 - Gemt butik: Netto Chr. Møllers Plads | 2300 København S 
+2025-12-04 22:30:48.576654 - Gemt butik: Netto Kastrupvej | 2300 København S 
+2025-12-04 22:30:48.586434 - Gemt butik: Netto Amagerbrogade, Amagerbro | 2300 København S 
+2025-12-04 22:30:48.599002 - Gemt butik: Netto Bella | 2300 København S 
+2025-12-04 22:30:48.606137 - Gemt butik: Netto Axel Heidesgade Kbh | 2300 København S 
+2025-12-04 22:30:48.615131 - Gemt butik: Netto Sadolinparken | 2300 København S 
+2025-12-04 22:30:48.624212 - Gemt butik: Netto Amagerbrogade, Sundby Vester Pl. | 2300 København S 
+2025-12-04 22:30:48.638238 - Gemt butik: Netto Hollænderdybet | 2300 København S 
+2025-12-04 22:30:48.64706 - Gemt butik: Netto Kirkegaardssvej | 2300 København S 
+2025-12-04 22:30:48.655995 - Gemt butik: Netto Bachersvej | 2300 København S 
+2025-12-04 22:30:48.667235 - Gemt butik: Netto Kongelundsvej | 2300 København S 
+2025-12-04 22:30:48.676325 - Gemt butik: Netto DR Byen | 2300 København S. 
+2025-12-04 22:30:48.684255 - Gemt butik: Netto Islands Brygge | 2300 København 
+2025-12-04 22:30:48.701293 - Gemt butik: Netto Femøren | 2300 København S 
+2025-12-04 22:30:48.712368 - Gemt butik: Netto Royal Arena | 2300 København S. 
+2025-12-04 22:30:48.727206 - Gemt butik: Netto Amagerbrogade Byggenummer | 2300 København S. 
+2025-12-04 22:44:16.404241 - === Starter API-kald for postnummer: 2300 === 
+2025-12-04 22:44:18.734422 - HTTP status for 2300 : 500 
+2025-12-04 22:44:18.738506 - FEJL: API svarede ikke korrekt for 2300 
+2025-12-04 22:44:18.743238 - === Starter API-kald for postnummer: 2200 === 
+2025-12-04 22:44:18.935717 - HTTP status for 2200 : 200 
+2025-12-04 22:44:19.069301 - Tilbud fundet i 2200 : 12 
+2025-12-04 22:44:19.077144 - DB-forbindelse OK 
+2025-12-04 22:44:19.080286 - Butikker fundet i 2200 : 12 
+2025-12-04 22:44:19.093316 - Gemt butik: føtex Nørrebro | 2200 København N 
+2025-12-04 22:44:19.101543 - Gemt butik: Netto Rantzausgade | 2200 København N 
+2025-12-04 22:44:19.109362 - Gemt butik: Netto Tagensvej 85 | 2200 København N 
+2025-12-04 22:44:19.117285 - Gemt butik: Netto Nørrebrogade | 2200 København N 
+2025-12-04 22:44:19.125281 - Gemt butik: Netto Hillerødgade | 2200 København N 
+2025-12-04 22:44:19.141926 - Gemt butik: Netto Tagensvej | 2200 København N 
+2025-12-04 22:44:19.149733 - Gemt butik: Netto Nørrebrogade 170 | 2200 København N 
+2025-12-04 22:44:19.157604 - Gemt butik: Netto Borgmestervangen | 2200 København N 
+2025-12-04 22:44:19.173588 - Gemt butik: Netto Blågårdsgade | 2200 København N 
+2025-12-04 22:44:19.181459 - Gemt butik: Netto Hamletsgade | 2200 København N 
+2025-12-04 22:44:19.189631 - Gemt butik: føtex City Jagtvej | 2200 København N 
+2025-12-04 22:44:19.204364 - Gemt butik: føtex City Nørrebrogade | 2200 København N 
+2025-12-04 22:53:15.620118 - === Starter API-kald for postnummer: 2300 === 
+2025-12-04 22:53:16.083099 - HTTP status for 2300 : 200 
+2025-12-04 22:53:16.276616 - Tilbud fundet i 2300 : 20 
+2025-12-04 22:53:16.283912 - DB-forbindelse OK 
+2025-12-04 22:53:16.286395 - Butikker fundet i 2300 : 20 
+2025-12-04 22:53:16.297589 - Gemt butik: Bilka One Stop, Fields | 2300 København S 
+2025-12-04 22:53:16.306108 - Gemt butik: føtex Amagerbrogade | 2300 København S 
+2025-12-04 22:53:16.313178 - Gemt butik: føtex Amager Centret | 2300 København S 
+2025-12-04 22:53:16.323528 - Gemt butik: føtex DR Byen | 2300 København S 
+2025-12-04 22:53:16.332356 - Gemt butik: Netto Chr. Møllers Plads | 2300 København S 
+2025-12-04 22:53:16.341159 - Gemt butik: Netto Kastrupvej | 2300 København S 
+2025-12-04 22:53:16.348236 - Gemt butik: Netto Amagerbrogade, Amagerbro | 2300 København S 
+2025-12-04 22:53:16.35702 - Gemt butik: Netto Bella | 2300 København S 
+2025-12-04 22:53:16.364683 - Gemt butik: Netto Axel Heidesgade Kbh | 2300 København S 
+2025-12-04 22:53:16.374771 - Gemt butik: Netto Sadolinparken | 2300 København S 
+2025-12-04 22:53:16.384536 - Gemt butik: Netto Amagerbrogade, Sundby Vester Pl. | 2300 København S 
+2025-12-04 22:53:16.392218 - Gemt butik: Netto Hollænderdybet | 2300 København S 
+2025-12-04 22:53:16.402261 - Gemt butik: Netto Kirkegaardssvej | 2300 København S 
+2025-12-04 22:53:16.410395 - Gemt butik: Netto Bachersvej | 2300 København S 
+2025-12-04 22:53:16.422066 - Gemt butik: Netto Kongelundsvej | 2300 København S 
+2025-12-04 22:53:16.432207 - Gemt butik: Netto DR Byen | 2300 København S. 
+2025-12-04 22:53:16.441468 - Gemt butik: Netto Islands Brygge | 2300 København 
+2025-12-04 22:53:16.452246 - Gemt butik: Netto Femøren | 2300 København S 
+2025-12-04 22:53:16.465798 - Gemt butik: Netto Royal Arena | 2300 København S. 
+2025-12-04 22:53:16.474659 - Gemt butik: Netto Amagerbrogade Byggenummer | 2300 København S. 
+2025-12-05 08:02:54.917341 - === Starter API-kald for postnummer: 2300 === 
+2025-12-05 08:02:55.358165 - HTTP status for 2300 : 200 
+2025-12-05 08:02:55.554091 - Tilbud fundet i 2300 : 20 
+2025-12-05 08:02:55.56931 - DB-forbindelse OK 
+2025-12-05 08:02:55.571723 - Butikker fundet i 2300 : 20 
+2025-12-05 08:02:55.583259 - Gemt butik: Bilka One Stop, Fields | 2300 København S 
+2025-12-05 08:02:55.591961 - Gemt butik: føtex Amagerbrogade | 2300 København S 
+2025-12-05 08:02:55.599243 - Gemt butik: føtex Amager Centret | 2300 København S 
+2025-12-05 08:02:55.609177 - Gemt butik: føtex DR Byen | 2300 København S 
+2025-12-05 08:02:55.622004 - Gemt butik: Netto Chr. Møllers Plads | 2300 København S 
+2025-12-05 08:02:55.630795 - Gemt butik: Netto Kastrupvej | 2300 København S 
+2025-12-05 08:02:55.639156 - Gemt butik: Netto Amagerbrogade, Amagerbro | 2300 København S 
+2025-12-05 08:02:55.651922 - Gemt butik: Netto Bella | 2300 København S 
+2025-12-05 08:02:55.658989 - Gemt butik: Netto Axel Heidesgade Kbh | 2300 København S 
+2025-12-05 08:02:55.667752 - Gemt butik: Netto Sadolinparken | 2300 København S 
+2025-12-05 08:02:55.676628 - Gemt butik: Netto Amagerbrogade, Sundby Vester Pl. | 2300 København S 
+2025-12-05 08:02:55.686075 - Gemt butik: Netto Hollænderdybet | 2300 København S 
+2025-12-05 08:02:55.694783 - Gemt butik: Netto Kirkegaardssvej | 2300 København S 
+2025-12-05 08:02:55.702294 - Gemt butik: Netto Bachersvej | 2300 København S 
+2025-12-05 08:02:55.714576 - Gemt butik: Netto Kongelundsvej | 2300 København S 
+2025-12-05 08:02:55.723033 - Gemt butik: Netto DR Byen | 2300 København S. 
+2025-12-05 08:02:55.732075 - Gemt butik: Netto Islands Brygge | 2300 København 
+2025-12-05 08:02:55.7408 - Gemt butik: Netto Femøren | 2300 København S 
+2025-12-05 08:02:55.751042 - Gemt butik: Netto Royal Arena | 2300 København S. 
+2025-12-05 08:02:55.758299 - Gemt butik: Netto Amagerbrogade Byggenummer | 2300 København S. 
+2025-12-05 08:11:15.210267 - === Starter API-kald for postnummer: 2300 === 
+2025-12-05 08:11:15.496586 - HTTP status for 2300 : 200 
+2025-12-05 08:11:15.656024 - Tilbud fundet i 2300 : 20 
+2025-12-05 08:11:15.663757 - DB-forbindelse OK 
+2025-12-05 08:11:15.667848 - Butikker fundet i 2300 : 20 
+2025-12-05 08:11:15.726456 - Gemt butik: Bilka One Stop, Fields | 2300 København S 
+2025-12-05 08:11:15.734902 - Gemt butik: føtex Amagerbrogade | 2300 København S 
+2025-12-05 08:11:15.745869 - Gemt butik: føtex Amager Centret | 2300 København S 
+2025-12-05 08:11:15.75378 - Gemt butik: føtex DR Byen | 2300 København S 
+2025-12-05 08:11:15.762445 - Gemt butik: Netto Chr. Møllers Plads | 2300 København S 
+2025-12-05 08:11:15.77075 - Gemt butik: Netto Kastrupvej | 2300 København S 
+2025-12-05 08:11:15.784569 - Gemt butik: Netto Amagerbrogade, Amagerbro | 2300 København S 
+2025-12-05 08:11:15.793194 - Gemt butik: Netto Bella | 2300 København S 
+2025-12-05 08:11:15.801362 - Gemt butik: Netto Axel Heidesgade Kbh | 2300 København S 
+2025-12-05 08:11:15.811126 - Gemt butik: Netto Sadolinparken | 2300 København S 
+2025-12-05 08:11:15.819144 - Gemt butik: Netto Amagerbrogade, Sundby Vester Pl. | 2300 København S 
+2025-12-05 08:11:15.829391 - Gemt butik: Netto Hollænderdybet | 2300 København S 
+2025-12-05 08:11:15.845704 - Gemt butik: Netto Kirkegaardssvej | 2300 København S 
+2025-12-05 08:11:15.853903 - Gemt butik: Netto Bachersvej | 2300 København S 
+2025-12-05 08:11:15.861776 - Gemt butik: Netto Kongelundsvej | 2300 København S 
+2025-12-05 08:11:15.876706 - Gemt butik: Netto DR Byen | 2300 København S. 
+2025-12-05 08:11:15.884425 - Gemt butik: Netto Islands Brygge | 2300 København 
+2025-12-05 08:11:15.894513 - Gemt butik: Netto Femøren | 2300 København S 
+2025-12-05 08:11:15.904535 - Gemt butik: Netto Royal Arena | 2300 København S. 
+2025-12-05 08:11:15.914995 - Gemt butik: Netto Amagerbrogade Byggenummer | 2300 København S. 
+2025-12-05 08:11:16.154787 - Indsat 20 offers og produkter for 2300 
+2025-12-05 08:11:16.164149 - Færdig med postnummer: 2300 
+2025-12-05 08:11:16.167208 - === Starter API-kald for postnummer: 2200 === 
+2025-12-05 08:11:16.287478 - HTTP status for 2200 : 200 
+2025-12-05 08:11:16.371906 - Tilbud fundet i 2200 : 12 
+2025-12-05 08:11:16.41199 - DB-forbindelse OK 
+2025-12-05 08:11:16.415308 - Butikker fundet i 2200 : 12 
+2025-12-05 08:11:16.424389 - Gemt butik: føtex Nørrebro | 2200 København N 
+2025-12-05 08:11:16.439599 - Gemt butik: Netto Rantzausgade | 2200 København N 
+2025-12-05 08:11:16.44899 - Gemt butik: Netto Tagensvej 85 | 2200 København N 
+2025-12-05 08:11:16.457242 - Gemt butik: Netto Nørrebrogade | 2200 København N 
+2025-12-05 08:11:16.471287 - Gemt butik: Netto Hillerødgade | 2200 København N 
+2025-12-05 08:11:16.480798 - Gemt butik: Netto Tagensvej | 2200 København N 
+2025-12-05 08:11:16.489209 - Gemt butik: Netto Nørrebrogade 170 | 2200 København N 
+2025-12-05 08:11:16.502894 - Gemt butik: Netto Borgmestervangen | 2200 København N 
+2025-12-05 08:11:16.512251 - Gemt butik: Netto Blågårdsgade | 2200 København N 
+2025-12-05 08:11:16.520584 - Gemt butik: Netto Hamletsgade | 2200 København N 
+2025-12-05 08:11:16.53387 - Gemt butik: føtex City Jagtvej | 2200 København N 
+2025-12-05 08:11:16.542098 - Gemt butik: føtex City Nørrebrogade | 2200 København N 
+2025-12-05 08:11:16.687877 - Indsat 12 offers og produkter for 2200 
+2025-12-05 08:11:16.693865 - Færdig med postnummer: 2200 
+2025-12-05 08:11:16.697448 - === Starter API-kald for postnummer: 2100 === 
+2025-12-05 08:11:16.865488 - HTTP status for 2100 : 200 
+2025-12-05 08:11:16.955858 - Tilbud fundet i 2100 : 16 
+2025-12-05 08:11:16.962832 - DB-forbindelse OK 
+2025-12-05 08:11:16.966174 - Butikker fundet i 2100 : 16 
+2025-12-05 08:11:16.97542 - Gemt butik: føtex Østerbro Centret | 2100 København Ø 
+2025-12-05 08:11:16.98305 - Gemt butik: Netto Østerbrogade Kb | 2100 København Ø 
+2025-12-05 08:11:16.993059 - Gemt butik: Netto Øbro | 2100 København Ø 
+2025-12-05 08:11:17.001002 - Gemt butik: Netto Lyngbyvej 34 | 2100 København Ø 
+2025-12-05 08:11:17.01101 - Gemt butik: Netto Amerika Plads | 2100 København Ø 
+2025-12-05 08:11:17.025635 - Gemt butik: Netto Lyngbyvej 165-167 | 2100 København Ø 
+2025-12-05 08:11:17.03601 - Gemt butik: Netto Korsørgade | 2100 København Ø 
+2025-12-05 08:11:17.044351 - Gemt butik: Netto Blegdamsvej 124 | 2100 København Ø 
+2025-12-05 08:11:17.056168 - Gemt butik: Netto Østerbrogade 79 | 2100 København Ø 
+2025-12-05 08:11:17.066591 - Gemt butik: Netto Østerbrogade | 2100 København Ø 
+2025-12-05 08:11:17.074481 - Gemt butik: Netto Studsgaardsgade | 2100 København Ø 
+2025-12-05 08:11:17.087805 - Gemt butik: Netto Nygårdsvej | 2100 København Ø 
+2025-12-05 08:11:17.096655 - Gemt butik: Netto Ndr. Frihavnsgade | 2100 København Ø 
+2025-12-05 08:11:17.105716 - Gemt butik: Netto Æbeløgade | 2100 København Ø 
+2025-12-05 08:11:17.118089 - Gemt butik: Tjæpt Blegdamsvej | 2100 København Ø 
+2025-12-05 08:11:17.126099 - Gemt butik: føtex City Østerbro | 2100 København Ø 
+2025-12-05 08:11:17.307748 - Indsat 16 offers og produkter for 2100 
+2025-12-05 08:11:17.3128 - Færdig med postnummer: 2100 
+2025-12-05 08:11:17.316279 - === Starter API-kald for postnummer: 2000 === 
+2025-12-05 08:11:17.48522 - HTTP status for 2000 : 200 
+2025-12-05 08:11:17.558932 - Tilbud fundet i 2000 : 9 
+2025-12-05 08:11:17.565675 - DB-forbindelse OK 
+2025-12-05 08:11:17.568476 - Butikker fundet i 2000 : 9 
+2025-12-05 08:11:17.578018 - Gemt butik: føtex Nordre Fasanvej | 2000 Frederiksberg 
+2025-12-05 08:11:17.586292 - Gemt butik: føtex Frederiksberg Centret | 2000 Frederiksberg 
+2025-12-05 08:11:17.595848 - Gemt butik: Netto Finsensvej | 2000 Frederiksberg 
+2025-12-05 08:11:17.605291 - Gemt butik: Netto Godthåbsvej 74 | 2000 Frederiksberg 
+2025-12-05 08:11:17.614476 - Gemt butik: Netto Godthåbsvej/Roxy | 2000 Frederiksberg 
+2025-12-05 08:11:17.628712 - Gemt butik: Netto Frederiksberg | 2000 Frederiksberg 
+2025-12-05 08:11:17.636922 - Gemt butik: Netto Borgmest. Fisch. Vej | 2000 Frederiksberg 
+2025-12-05 08:11:17.646289 - Gemt butik: Netto Peter Bangs Vej | 2000 Frederiksberg 
+2025-12-05 08:11:17.659649 - Gemt butik: Netto Peter Bangs Vej 24-28 | 2000 Frederiksberg 
+2025-12-05 08:11:17.757979 - Indsat 9 offers og produkter for 2000 
+2025-12-05 08:11:17.766983 - Færdig med postnummer: 2000 
+2025-12-05 08:37:49.21479 - === Starter API-kald for postnummer: 2300 === 
+2025-12-05 08:37:49.681781 - HTTP status for 2300 : 200 
+2025-12-05 08:37:49.843031 - Tilbud fundet i 2300 : 20 
+2025-12-05 08:37:49.89756 - DB-forbindelse OK 
+2025-12-05 08:37:49.900459 - Butikker fundet i 2300 : 20 
+2025-12-05 08:37:49.914475 - Gemt butik: Bilka One Stop, Fields | 2300 København S 
+2025-12-05 08:37:49.923067 - Gemt butik: føtex Amagerbrogade | 2300 København S 
+2025-12-05 08:37:49.930493 - Gemt butik: føtex Amager Centret | 2300 København S 
+2025-12-05 08:37:49.938465 - Gemt butik: føtex DR Byen | 2300 København S 
+2025-12-05 08:37:49.95107 - Gemt butik: Netto Chr. Møllers Plads | 2300 København S 
+2025-12-05 08:37:49.959861 - Gemt butik: Netto Kastrupvej | 2300 København S 
+2025-12-05 08:37:49.967798 - Gemt butik: Netto Amagerbrogade, Amagerbro | 2300 København S 
+2025-12-05 08:37:49.978675 - Gemt butik: Netto Bella | 2300 København S 
+2025-12-05 08:37:49.98569 - Gemt butik: Netto Axel Heidesgade Kbh | 2300 København S 
+2025-12-05 08:37:49.994 - Gemt butik: Netto Sadolinparken | 2300 København S 
+2025-12-05 08:37:50.009702 - Gemt butik: Netto Amagerbrogade, Sundby Vester Pl. | 2300 København S 
+2025-12-05 08:37:50.018369 - Gemt butik: Netto Hollænderdybet | 2300 København S 
+2025-12-05 08:37:50.026429 - Gemt butik: Netto Kirkegaardssvej | 2300 København S 
+2025-12-05 08:37:50.041335 - Gemt butik: Netto Bachersvej | 2300 København S 
+2025-12-05 08:37:50.05006 - Gemt butik: Netto Kongelundsvej | 2300 København S 
+2025-12-05 08:37:50.05925 - Gemt butik: Netto DR Byen | 2300 København S. 
+2025-12-05 08:37:50.076253 - Gemt butik: Netto Islands Brygge | 2300 København 
+2025-12-05 08:37:50.085259 - Gemt butik: Netto Femøren | 2300 København S 
+2025-12-05 08:37:50.094001 - Gemt butik: Netto Royal Arena | 2300 København S. 
+2025-12-05 08:37:50.108124 - Gemt butik: Netto Amagerbrogade Byggenummer | 2300 København S. 
+2025-12-05 08:37:50.319271 - Indsat 20 offers og produkter for 2300 
+2025-12-05 08:37:50.337119 - Færdig med postnummer: 2300 
+2025-12-05 08:37:50.350244 - === Starter API-kald for postnummer: 2200 === 
+2025-12-05 08:37:50.556636 - HTTP status for 2200 : 200 
+2025-12-05 08:37:50.642053 - Tilbud fundet i 2200 : 12 
+2025-12-05 08:37:50.680257 - DB-forbindelse OK 
+2025-12-05 08:37:50.683588 - Butikker fundet i 2200 : 12 
+2025-12-05 08:37:50.697991 - Gemt butik: føtex Nørrebro | 2200 København N 
+2025-12-05 08:37:50.707116 - Gemt butik: Netto Rantzausgade | 2200 København N 
+2025-12-05 08:37:50.715143 - Gemt butik: Netto Tagensvej 85 | 2200 København N 
+2025-12-05 08:37:50.73208 - Gemt butik: Netto Nørrebrogade | 2200 København N 
+2025-12-05 08:37:50.740892 - Gemt butik: Netto Hillerødgade | 2200 København N 
+2025-12-05 08:37:50.751652 - Gemt butik: Netto Tagensvej | 2200 København N 
+2025-12-05 08:37:50.764204 - Gemt butik: Netto Nørrebrogade 170 | 2200 København N 
+2025-12-05 08:37:50.772131 - Gemt butik: Netto Borgmestervangen | 2200 København N 
+2025-12-05 08:37:50.781195 - Gemt butik: Netto Blågårdsgade | 2200 København N 
+2025-12-05 08:37:50.790061 - Gemt butik: Netto Hamletsgade | 2200 København N 
+2025-12-05 08:37:50.798634 - Gemt butik: føtex City Jagtvej | 2200 København N 
+2025-12-05 08:37:50.806409 - Gemt butik: føtex City Nørrebrogade | 2200 København N 
+2025-12-05 08:37:50.94281 - Indsat 12 offers og produkter for 2200 
+2025-12-05 08:37:50.947501 - Færdig med postnummer: 2200 
+2025-12-05 08:37:50.951816 - === Starter API-kald for postnummer: 2100 === 
+2025-12-05 08:37:51.174923 - HTTP status for 2100 : 200 
+2025-12-05 08:37:51.274657 - Tilbud fundet i 2100 : 16 
+2025-12-05 08:37:51.280836 - DB-forbindelse OK 
+2025-12-05 08:37:51.284017 - Butikker fundet i 2100 : 16 
+2025-12-05 08:37:51.293435 - Gemt butik: føtex Østerbro Centret | 2100 København Ø 
+2025-12-05 08:37:51.301526 - Gemt butik: Netto Østerbrogade Kb | 2100 København Ø 
+2025-12-05 08:37:51.312269 - Gemt butik: Netto Øbro | 2100 København Ø 
+2025-12-05 08:37:51.321316 - Gemt butik: Netto Lyngbyvej 34 | 2100 København Ø 
+2025-12-05 08:37:51.329416 - Gemt butik: Netto Amerika Plads | 2100 København Ø 
+2025-12-05 08:37:51.337743 - Gemt butik: Netto Lyngbyvej 165-167 | 2100 København Ø 
+2025-12-05 08:37:51.346432 - Gemt butik: Netto Korsørgade | 2100 København Ø 
+2025-12-05 08:37:51.358341 - Gemt butik: Netto Blegdamsvej 124 | 2100 København Ø 
+2025-12-05 08:37:51.366494 - Gemt butik: Netto Østerbrogade 79 | 2100 København Ø 
+2025-12-05 08:37:51.375782 - Gemt butik: Netto Østerbrogade | 2100 København Ø 
+2025-12-05 08:37:51.388464 - Gemt butik: Netto Studsgaardsgade | 2100 København Ø 
+2025-12-05 08:37:51.397517 - Gemt butik: Netto Nygårdsvej | 2100 København Ø 
+2025-12-05 08:37:51.40784 - Gemt butik: Netto Ndr. Frihavnsgade | 2100 København Ø 
+2025-12-05 08:37:51.421085 - Gemt butik: Netto Æbeløgade | 2100 København Ø 
+2025-12-05 08:37:51.430842 - Gemt butik: Tjæpt Blegdamsvej | 2100 København Ø 
+2025-12-05 08:37:51.441092 - Gemt butik: føtex City Østerbro | 2100 København Ø 
+2025-12-05 08:37:51.612269 - Indsat 16 offers og produkter for 2100 
+2025-12-05 08:37:51.619738 - Færdig med postnummer: 2100 
+2025-12-05 08:37:51.62537 - === Starter API-kald for postnummer: 2000 === 
+2025-12-05 08:37:51.781316 - HTTP status for 2000 : 200 
+2025-12-05 08:37:51.859553 - Tilbud fundet i 2000 : 9 
+2025-12-05 08:37:51.865651 - DB-forbindelse OK 
+2025-12-05 08:37:51.868861 - Butikker fundet i 2000 : 9 
+2025-12-05 08:37:51.879309 - Gemt butik: føtex Nordre Fasanvej | 2000 Frederiksberg 
+2025-12-05 08:37:51.88747 - Gemt butik: føtex Frederiksberg Centret | 2000 Frederiksberg 
+2025-12-05 08:37:51.895777 - Gemt butik: Netto Finsensvej | 2000 Frederiksberg 
+2025-12-05 08:37:51.906208 - Gemt butik: Netto Godthåbsvej 74 | 2000 Frederiksberg 
+2025-12-05 08:37:51.920033 - Gemt butik: Netto Godthåbsvej/Roxy | 2000 Frederiksberg 
+2025-12-05 08:37:51.928026 - Gemt butik: Netto Frederiksberg | 2000 Frederiksberg 
+2025-12-05 08:37:51.936218 - Gemt butik: Netto Borgmest. Fisch. Vej | 2000 Frederiksberg 
+2025-12-05 08:37:51.944219 - Gemt butik: Netto Peter Bangs Vej | 2000 Frederiksberg 
+2025-12-05 08:37:51.952908 - Gemt butik: Netto Peter Bangs Vej 24-28 | 2000 Frederiksberg 
+2025-12-05 08:37:52.044356 - Indsat 9 offers og produkter for 2000 
+2025-12-05 08:37:52.050262 - Færdig med postnummer: 2000 
+2025-12-05 09:17:57.406639 - === Starter API-kald for postnummer: 2300 === 
+2025-12-05 09:18:00.40644 - HTTP status for 2300 : 200 
+2025-12-05 09:18:00.588989 - Tilbud fundet i 2300 : 20 
+2025-12-05 09:18:00.647304 - DB-forbindelse OK 
+2025-12-05 09:18:00.650053 - Butikker fundet i 2300 : 20 
+2025-12-05 09:18:00.662902 - Gemt butik: Bilka One Stop, Fields | 2300 København S 
+2025-12-05 09:18:00.669708 - Gemt butik: føtex Amagerbrogade | 2300 København S 
+2025-12-05 09:18:00.675371 - Gemt butik: føtex Amager Centret | 2300 København S 
+2025-12-05 09:18:00.681044 - Gemt butik: føtex DR Byen | 2300 København S 
+2025-12-05 09:18:00.687162 - Gemt butik: Netto Chr. Møllers Plads | 2300 København S 
+2025-12-05 09:18:00.694701 - Gemt butik: Netto Kastrupvej | 2300 København S 
+2025-12-05 09:18:00.700442 - Gemt butik: Netto Amagerbrogade, Amagerbro | 2300 København S 
+2025-12-05 09:18:00.708303 - Gemt butik: Netto Bella | 2300 København S 
+2025-12-05 09:18:00.714646 - Gemt butik: Netto Axel Heidesgade Kbh | 2300 København S 
+2025-12-05 09:18:00.721758 - Gemt butik: Netto Sadolinparken | 2300 København S 
+2025-12-05 09:18:00.727997 - Gemt butik: Netto Amagerbrogade, Sundby Vester Pl. | 2300 København S 
+2025-12-05 09:18:00.735041 - Gemt butik: Netto Hollænderdybet | 2300 København S 
+2025-12-05 09:18:00.741412 - Gemt butik: Netto Kirkegaardssvej | 2300 København S 
+2025-12-05 09:18:00.74728 - Gemt butik: Netto Bachersvej | 2300 København S 
+2025-12-05 09:18:00.753086 - Gemt butik: Netto Kongelundsvej | 2300 København S 
+2025-12-05 09:18:00.758932 - Gemt butik: Netto DR Byen | 2300 København S. 
+2025-12-05 09:18:00.766405 - Gemt butik: Netto Islands Brygge | 2300 København 
+2025-12-05 09:18:00.772739 - Gemt butik: Netto Femøren | 2300 København S 
+2025-12-05 09:18:00.778855 - Gemt butik: Netto Royal Arena | 2300 København S. 
+2025-12-05 09:18:00.785002 - Gemt butik: Netto Amagerbrogade Byggenummer | 2300 København S. 
+2025-12-05 09:18:01.012076 - Indsat 20 offers og produkter for 2300 
+2025-12-05 09:18:01.016563 - Færdig med postnummer: 2300 
+2025-12-05 09:18:01.018694 - === Starter API-kald for postnummer: 2200 === 
+2025-12-05 09:18:01.231234 - HTTP status for 2200 : 200 
+2025-12-05 09:18:01.37166 - Tilbud fundet i 2200 : 12 
+2025-12-05 09:18:01.527947 - DB-forbindelse OK 
+2025-12-05 09:18:01.539574 - Butikker fundet i 2200 : 12 
+2025-12-05 09:18:01.556963 - Gemt butik: føtex Nørrebro | 2200 København N 
+2025-12-05 09:18:01.573823 - Gemt butik: Netto Rantzausgade | 2200 København N 
+2025-12-05 09:18:01.590086 - Gemt butik: Netto Tagensvej 85 | 2200 København N 
+2025-12-05 09:18:01.597158 - Gemt butik: Netto Nørrebrogade | 2200 København N 
+2025-12-05 09:18:01.603523 - Gemt butik: Netto Hillerødgade | 2200 København N 
+2025-12-05 09:18:01.609778 - Gemt butik: Netto Tagensvej | 2200 København N 
+2025-12-05 09:18:01.616153 - Gemt butik: Netto Nørrebrogade 170 | 2200 København N 
+2025-12-05 09:18:01.623366 - Gemt butik: Netto Borgmestervangen | 2200 København N 
+2025-12-05 09:18:01.634727 - Gemt butik: Netto Blågårdsgade | 2200 København N 
+2025-12-05 09:18:01.658978 - Gemt butik: Netto Hamletsgade | 2200 København N 
+2025-12-05 09:18:01.707075 - Gemt butik: føtex City Jagtvej | 2200 København N 
+2025-12-05 09:18:01.728343 - Gemt butik: føtex City Nørrebrogade | 2200 København N 
+2025-12-05 09:18:01.916978 - Indsat 12 offers og produkter for 2200 
+2025-12-05 09:18:01.926252 - Færdig med postnummer: 2200 
+2025-12-05 09:18:01.933852 - === Starter API-kald for postnummer: 2100 === 
+2025-12-05 09:18:02.174464 - HTTP status for 2100 : 200 
+2025-12-05 09:18:02.437739 - Tilbud fundet i 2100 : 16 
+2025-12-05 09:18:02.479577 - DB-forbindelse OK 
+2025-12-05 09:18:02.489457 - Butikker fundet i 2100 : 16 
+2025-12-05 09:18:02.505828 - Gemt butik: føtex Østerbro Centret | 2100 København Ø 
+2025-12-05 09:18:02.518253 - Gemt butik: Netto Østerbrogade Kb | 2100 København Ø 
+2025-12-05 09:18:02.533374 - Gemt butik: Netto Øbro | 2100 København Ø 
+2025-12-05 09:18:02.555196 - Gemt butik: Netto Lyngbyvej 34 | 2100 København Ø 
+2025-12-05 09:18:02.56977 - Gemt butik: Netto Amerika Plads | 2100 København Ø 
+2025-12-05 09:18:02.58428 - Gemt butik: Netto Lyngbyvej 165-167 | 2100 København Ø 
+2025-12-05 09:18:02.596047 - Gemt butik: Netto Korsørgade | 2100 København Ø 
+2025-12-05 09:18:02.60646 - Gemt butik: Netto Blegdamsvej 124 | 2100 København Ø 
+2025-12-05 09:18:02.622284 - Gemt butik: Netto Østerbrogade 79 | 2100 København Ø 
+2025-12-05 09:18:02.63563 - Gemt butik: Netto Østerbrogade | 2100 København Ø 
+2025-12-05 09:18:02.650709 - Gemt butik: Netto Studsgaardsgade | 2100 København Ø 
+2025-12-05 09:18:02.668833 - Gemt butik: Netto Nygårdsvej | 2100 København Ø 
+2025-12-05 09:18:02.675982 - Gemt butik: Netto Ndr. Frihavnsgade | 2100 København Ø 
+2025-12-05 09:18:02.686545 - Gemt butik: Netto Æbeløgade | 2100 København Ø 
+2025-12-05 09:18:02.703233 - Gemt butik: Tjæpt Blegdamsvej | 2100 København Ø 
+2025-12-05 09:18:02.714378 - Gemt butik: føtex City Østerbro | 2100 København Ø 
+2025-12-05 09:18:03.040462 - Indsat 16 offers og produkter for 2100 
+2025-12-05 09:18:03.049619 - Færdig med postnummer: 2100 
+2025-12-05 09:18:03.056068 - === Starter API-kald for postnummer: 2000 === 
+2025-12-05 09:18:03.283589 - HTTP status for 2000 : 200 
+2025-12-05 09:18:03.432627 - Tilbud fundet i 2000 : 9 
+2025-12-05 09:18:03.437877 - DB-forbindelse OK 
+2025-12-05 09:18:03.439699 - Butikker fundet i 2000 : 9 
+2025-12-05 09:18:03.447546 - Gemt butik: føtex Nordre Fasanvej | 2000 Frederiksberg 
+2025-12-05 09:18:03.453716 - Gemt butik: føtex Frederiksberg Centret | 2000 Frederiksberg 
+2025-12-05 09:18:03.467827 - Gemt butik: Netto Finsensvej | 2000 Frederiksberg 
+2025-12-05 09:18:03.486347 - Gemt butik: Netto Godthåbsvej 74 | 2000 Frederiksberg 
+2025-12-05 09:18:03.493066 - Gemt butik: Netto Godthåbsvej/Roxy | 2000 Frederiksberg 
+2025-12-05 09:18:03.499114 - Gemt butik: Netto Frederiksberg | 2000 Frederiksberg 
+2025-12-05 09:18:03.505525 - Gemt butik: Netto Borgmest. Fisch. Vej | 2000 Frederiksberg 
+2025-12-05 09:18:03.513547 - Gemt butik: Netto Peter Bangs Vej | 2000 Frederiksberg 
+2025-12-05 09:18:03.519759 - Gemt butik: Netto Peter Bangs Vej 24-28 | 2000 Frederiksberg 
+2025-12-05 09:18:03.635291 - Indsat 9 offers og produkter for 2000 
+2025-12-05 09:18:03.640617 - Færdig med postnummer: 2000 
+2025-12-05 09:22:01.861156 - === Starter API-kald for postnummer: 2300 === 
+2025-12-05 09:22:02.500697 - HTTP status for 2300 : 200 
+2025-12-05 09:22:02.85938 - Tilbud fundet i 2300 : 20 
+2025-12-05 09:22:03.008676 - DB-forbindelse OK 
+2025-12-05 09:22:03.01254 - Butikker fundet i 2300 : 20 
+2025-12-05 09:22:03.032139 - Gemt butik: Bilka One Stop, Fields | 2300 København S 
+2025-12-05 09:22:03.040721 - Gemt butik: føtex Amagerbrogade | 2300 København S 
+2025-12-05 09:22:03.048395 - Gemt butik: føtex Amager Centret | 2300 København S 
+2025-12-05 09:22:03.05608 - Gemt butik: føtex DR Byen | 2300 København S 
+2025-12-05 09:22:03.065899 - Gemt butik: Netto Chr. Møllers Plads | 2300 København S 
+2025-12-05 09:22:03.074864 - Gemt butik: Netto Kastrupvej | 2300 København S 
+2025-12-05 09:22:03.085207 - Gemt butik: Netto Amagerbrogade, Amagerbro | 2300 København S 
+2025-12-05 09:22:03.092776 - Gemt butik: Netto Bella | 2300 København S 
+2025-12-05 09:22:03.099211 - Gemt butik: Netto Axel Heidesgade Kbh | 2300 København S 
+2025-12-05 09:22:03.109171 - Gemt butik: Netto Sadolinparken | 2300 København S 
+2025-12-05 09:22:03.11693 - Gemt butik: Netto Amagerbrogade, Sundby Vester Pl. | 2300 København S 
+2025-12-05 09:22:03.128808 - Gemt butik: Netto Hollænderdybet | 2300 København S 
+2025-12-05 09:22:03.135902 - Gemt butik: Netto Kirkegaardssvej | 2300 København S 
+2025-12-05 09:22:03.146319 - Gemt butik: Netto Bachersvej | 2300 København S 
+2025-12-05 09:22:03.152998 - Gemt butik: Netto Kongelundsvej | 2300 København S 
+2025-12-05 09:22:03.163713 - Gemt butik: Netto DR Byen | 2300 København S. 
+2025-12-05 09:22:03.17016 - Gemt butik: Netto Islands Brygge | 2300 København 
+2025-12-05 09:22:03.180258 - Gemt butik: Netto Femøren | 2300 København S 
+2025-12-05 09:22:03.18672 - Gemt butik: Netto Royal Arena | 2300 København S. 
+2025-12-05 09:22:03.19327 - Gemt butik: Netto Amagerbrogade Byggenummer | 2300 København S. 
+2025-12-05 09:22:03.365982 - Indsat 20 offers og produkter for 2300 
+2025-12-05 09:22:03.373566 - Færdig med postnummer: 2300 
+2025-12-05 09:22:03.380471 - === Starter API-kald for postnummer: 2200 === 
+2025-12-05 09:22:03.458924 - HTTP status for 2200 : 200 
+2025-12-05 09:22:03.554874 - Tilbud fundet i 2200 : 12 
+2025-12-05 09:22:03.597027 - DB-forbindelse OK 
+2025-12-05 09:22:03.600897 - Butikker fundet i 2200 : 12 
+2025-12-05 09:22:03.609556 - Gemt butik: føtex Nørrebro | 2200 København N 
+2025-12-05 09:22:03.621894 - Gemt butik: Netto Rantzausgade | 2200 København N 
+2025-12-05 09:22:03.628895 - Gemt butik: Netto Tagensvej 85 | 2200 København N 
+2025-12-05 09:22:03.637928 - Gemt butik: Netto Nørrebrogade | 2200 København N 
+2025-12-05 09:22:03.656894 - Gemt butik: Netto Hillerødgade | 2200 København N 
+2025-12-05 09:22:03.66411 - Gemt butik: Netto Tagensvej | 2200 København N 
+2025-12-05 09:22:03.674329 - Gemt butik: Netto Nørrebrogade 170 | 2200 København N 
+2025-12-05 09:22:03.687657 - Gemt butik: Netto Borgmestervangen | 2200 København N 
+2025-12-05 09:22:03.708086 - Gemt butik: Netto Blågårdsgade | 2200 København N 
+2025-12-05 09:22:03.731607 - Gemt butik: Netto Hamletsgade | 2200 København N 
+2025-12-05 09:22:03.748566 - Gemt butik: føtex City Jagtvej | 2200 København N 
+2025-12-05 09:22:03.75561 - Gemt butik: føtex City Nørrebrogade | 2200 København N 
+2025-12-05 09:22:03.849064 - Indsat 12 offers og produkter for 2200 
+2025-12-05 09:22:03.854376 - Færdig med postnummer: 2200 
+2025-12-05 09:22:03.858802 - === Starter API-kald for postnummer: 2100 === 
+2025-12-05 09:22:03.927671 - HTTP status for 2100 : 200 
+2025-12-05 09:22:04.042853 - Tilbud fundet i 2100 : 16 
+2025-12-05 09:22:04.054101 - DB-forbindelse OK 
+2025-12-05 09:22:04.05766 - Butikker fundet i 2100 : 16 
+2025-12-05 09:22:04.067432 - Gemt butik: føtex Østerbro Centret | 2100 København Ø 
+2025-12-05 09:22:04.074952 - Gemt butik: Netto Østerbrogade Kb | 2100 København Ø 
+2025-12-05 09:22:04.084347 - Gemt butik: Netto Øbro | 2100 København Ø 
+2025-12-05 09:22:04.091096 - Gemt butik: Netto Lyngbyvej 34 | 2100 København Ø 
+2025-12-05 09:22:04.100724 - Gemt butik: Netto Amerika Plads | 2100 København Ø 
+2025-12-05 09:22:04.109626 - Gemt butik: Netto Lyngbyvej 165-167 | 2100 København Ø 
+2025-12-05 09:22:04.122664 - Gemt butik: Netto Korsørgade | 2100 København Ø 
+2025-12-05 09:22:04.13088 - Gemt butik: Netto Blegdamsvej 124 | 2100 København Ø 
+2025-12-05 09:22:04.138288 - Gemt butik: Netto Østerbrogade 79 | 2100 København Ø 
+2025-12-05 09:22:04.153685 - Gemt butik: Netto Østerbrogade | 2100 København Ø 
+2025-12-05 09:22:04.162759 - Gemt butik: Netto Studsgaardsgade | 2100 København Ø 
+2025-12-05 09:22:04.171556 - Gemt butik: Netto Nygårdsvej | 2100 København Ø 
+2025-12-05 09:22:04.186921 - Gemt butik: Netto Ndr. Frihavnsgade | 2100 København Ø 
+2025-12-05 09:22:04.194376 - Gemt butik: Netto Æbeløgade | 2100 København Ø 
+2025-12-05 09:22:04.207573 - Gemt butik: Tjæpt Blegdamsvej | 2100 København Ø 
+2025-12-05 09:22:04.230909 - Gemt butik: føtex City Østerbro | 2100 København Ø 
+2025-12-05 09:22:04.396795 - Indsat 16 offers og produkter for 2100 
+2025-12-05 09:22:04.40207 - Færdig med postnummer: 2100 
+2025-12-05 09:22:04.406399 - === Starter API-kald for postnummer: 2000 === 
+2025-12-05 09:22:04.493286 - HTTP status for 2000 : 200 
+2025-12-05 09:22:04.640957 - Tilbud fundet i 2000 : 9 
+2025-12-05 09:22:04.677286 - DB-forbindelse OK 
+2025-12-05 09:22:04.680976 - Butikker fundet i 2000 : 9 
+2025-12-05 09:22:04.69674 - Gemt butik: føtex Nordre Fasanvej | 2000 Frederiksberg 
+2025-12-05 09:22:04.720275 - Gemt butik: føtex Frederiksberg Centret | 2000 Frederiksberg 
+2025-12-05 09:22:04.747997 - Gemt butik: Netto Finsensvej | 2000 Frederiksberg 
+2025-12-05 09:22:04.761933 - Gemt butik: Netto Godthåbsvej 74 | 2000 Frederiksberg 
+2025-12-05 09:22:04.829464 - Gemt butik: Netto Godthåbsvej/Roxy | 2000 Frederiksberg 
+2025-12-05 09:22:04.840162 - Gemt butik: Netto Frederiksberg | 2000 Frederiksberg 
+2025-12-05 09:22:04.848038 - Gemt butik: Netto Borgmest. Fisch. Vej | 2000 Frederiksberg 
+2025-12-05 09:22:04.858856 - Gemt butik: Netto Peter Bangs Vej | 2000 Frederiksberg 
+2025-12-05 09:22:04.868055 - Gemt butik: Netto Peter Bangs Vej 24-28 | 2000 Frederiksberg 
+2025-12-05 09:22:04.971655 - Indsat 9 offers og produkter for 2000 
+2025-12-05 09:22:04.976945 - Færdig med postnummer: 2000 
+2025-12-05 09:30:00.922632 - === Starter API-kald for postnummer: 2300 === 
+2025-12-05 09:30:01.27113 - HTTP status for 2300 : 200 
+2025-12-05 09:30:01.86826 - Tilbud fundet i 2300 : 20 
+2025-12-05 09:30:02.227163 - DB-forbindelse OK 
+2025-12-05 09:30:02.245785 - Butikker fundet i 2300 : 20 
+2025-12-05 09:30:02.266337 - Gemt butik: Bilka One Stop, Fields | 2300 København S 
+2025-12-05 09:30:02.288578 - Gemt butik: føtex Amagerbrogade | 2300 København S 
+2025-12-05 09:30:02.301644 - Gemt butik: føtex Amager Centret | 2300 København S 
+2025-12-05 09:30:02.318789 - Gemt butik: føtex DR Byen | 2300 København S 
+2025-12-05 09:30:02.337581 - Gemt butik: Netto Chr. Møllers Plads | 2300 København S 
+2025-12-05 09:30:02.346541 - Gemt butik: Netto Kastrupvej | 2300 København S 
+2025-12-05 09:30:02.363488 - Gemt butik: Netto Amagerbrogade, Amagerbro | 2300 København S 
+2025-12-05 09:30:02.392183 - Gemt butik: Netto Bella | 2300 København S 
+2025-12-05 09:30:02.409514 - Gemt butik: Netto Axel Heidesgade Kbh | 2300 København S 
+2025-12-05 09:30:02.422604 - Gemt butik: Netto Sadolinparken | 2300 København S 
+2025-12-05 09:30:02.446212 - Gemt butik: Netto Amagerbrogade, Sundby Vester Pl. | 2300 København S 
+2025-12-05 09:30:02.465687 - Gemt butik: Netto Hollænderdybet | 2300 København S 
+2025-12-05 09:30:02.575192 - Gemt butik: Netto Kirkegaardssvej | 2300 København S 
+2025-12-05 09:30:02.584855 - Gemt butik: Netto Bachersvej | 2300 København S 
+2025-12-05 09:30:02.596793 - Gemt butik: Netto Kongelundsvej | 2300 København S 
+2025-12-05 09:30:02.607539 - Gemt butik: Netto DR Byen | 2300 København S. 
+2025-12-05 09:30:02.631231 - Gemt butik: Netto Islands Brygge | 2300 København 
+2025-12-05 09:30:02.64926 - Gemt butik: Netto Femøren | 2300 København S 
+2025-12-05 09:30:02.668179 - Gemt butik: Netto Royal Arena | 2300 København S. 
+2025-12-05 09:30:02.681751 - Gemt butik: Netto Amagerbrogade Byggenummer | 2300 København S. 
+2025-12-05 09:30:03.103275 - Indsat 20 offers og produkter for 2300 
+2025-12-05 09:30:03.117764 - Færdig med postnummer: 2300 
+2025-12-05 09:30:03.125517 - === Starter API-kald for postnummer: 2200 === 
+2025-12-05 09:30:03.23672 - HTTP status for 2200 : 200 
+2025-12-05 09:30:03.404472 - Tilbud fundet i 2200 : 12 
+2025-12-05 09:30:03.525162 - DB-forbindelse OK 
+2025-12-05 09:30:03.529256 - Butikker fundet i 2200 : 12 
+2025-12-05 09:30:03.540547 - Gemt butik: føtex Nørrebro | 2200 København N 
+2025-12-05 09:30:03.553806 - Gemt butik: Netto Rantzausgade | 2200 København N 
+2025-12-05 09:30:03.564484 - Gemt butik: Netto Tagensvej 85 | 2200 København N 
+2025-12-05 09:30:03.586714 - Gemt butik: Netto Nørrebrogade | 2200 København N 
+2025-12-05 09:30:03.595485 - Gemt butik: Netto Hillerødgade | 2200 København N 
+2025-12-05 09:30:03.604201 - Gemt butik: Netto Tagensvej | 2200 København N 
+2025-12-05 09:30:03.611932 - Gemt butik: Netto Nørrebrogade 170 | 2200 København N 
+2025-12-05 09:30:03.621269 - Gemt butik: Netto Borgmestervangen | 2200 København N 
+2025-12-05 09:30:03.631628 - Gemt butik: Netto Blågårdsgade | 2200 København N 
+2025-12-05 09:30:03.640762 - Gemt butik: Netto Hamletsgade | 2200 København N 
+2025-12-05 09:30:03.647972 - Gemt butik: føtex City Jagtvej | 2200 København N 
+2025-12-05 09:30:03.664363 - Gemt butik: føtex City Nørrebrogade | 2200 København N 
+2025-12-05 09:30:03.896619 - Indsat 12 offers og produkter for 2200 
+2025-12-05 09:30:03.906078 - Færdig med postnummer: 2200 
+2025-12-05 09:30:03.908272 - === Starter API-kald for postnummer: 2100 === 
+2025-12-05 09:30:03.986834 - HTTP status for 2100 : 200 
+2025-12-05 09:30:04.088697 - Tilbud fundet i 2100 : 16 
+2025-12-05 09:30:04.094481 - DB-forbindelse OK 
+2025-12-05 09:30:04.096207 - Butikker fundet i 2100 : 16 
+2025-12-05 09:30:04.103674 - Gemt butik: føtex Østerbro Centret | 2100 København Ø 
+2025-12-05 09:30:04.111225 - Gemt butik: Netto Østerbrogade Kb | 2100 København Ø 
+2025-12-05 09:30:04.118831 - Gemt butik: Netto Øbro | 2100 København Ø 
+2025-12-05 09:30:04.124866 - Gemt butik: Netto Lyngbyvej 34 | 2100 København Ø 
+2025-12-05 09:30:04.131519 - Gemt butik: Netto Amerika Plads | 2100 København Ø 
+2025-12-05 09:30:04.137891 - Gemt butik: Netto Lyngbyvej 165-167 | 2100 København Ø 
+2025-12-05 09:30:04.144313 - Gemt butik: Netto Korsørgade | 2100 København Ø 
+2025-12-05 09:30:04.150502 - Gemt butik: Netto Blegdamsvej 124 | 2100 København Ø 
+2025-12-05 09:30:04.157937 - Gemt butik: Netto Østerbrogade 79 | 2100 København Ø 
+2025-12-05 09:30:04.164374 - Gemt butik: Netto Østerbrogade | 2100 København Ø 
+2025-12-05 09:30:04.170624 - Gemt butik: Netto Studsgaardsgade | 2100 København Ø 
+2025-12-05 09:30:04.179933 - Gemt butik: Netto Nygårdsvej | 2100 København Ø 
+2025-12-05 09:30:04.186297 - Gemt butik: Netto Ndr. Frihavnsgade | 2100 København Ø 
+2025-12-05 09:30:04.194026 - Gemt butik: Netto Æbeløgade | 2100 København Ø 
+2025-12-05 09:30:04.200126 - Gemt butik: Tjæpt Blegdamsvej | 2100 København Ø 
+2025-12-05 09:30:04.206981 - Gemt butik: føtex City Østerbro | 2100 København Ø 
+2025-12-05 09:30:04.445805 - Indsat 16 offers og produkter for 2100 
+2025-12-05 09:30:04.450709 - Færdig med postnummer: 2100 
+2025-12-05 09:30:04.455067 - === Starter API-kald for postnummer: 2000 === 
+2025-12-05 09:30:04.527953 - HTTP status for 2000 : 200 
+2025-12-05 09:30:04.609993 - Tilbud fundet i 2000 : 9 
+2025-12-05 09:30:04.615101 - DB-forbindelse OK 
+2025-12-05 09:30:04.616992 - Butikker fundet i 2000 : 9 
+2025-12-05 09:30:04.624712 - Gemt butik: føtex Nordre Fasanvej | 2000 Frederiksberg 
+2025-12-05 09:30:04.630895 - Gemt butik: føtex Frederiksberg Centret | 2000 Frederiksberg 
+2025-12-05 09:30:04.638435 - Gemt butik: Netto Finsensvej | 2000 Frederiksberg 
+2025-12-05 09:30:04.645789 - Gemt butik: Netto Godthåbsvej 74 | 2000 Frederiksberg 
+2025-12-05 09:30:04.651957 - Gemt butik: Netto Godthåbsvej/Roxy | 2000 Frederiksberg 
+2025-12-05 09:30:04.658451 - Gemt butik: Netto Frederiksberg | 2000 Frederiksberg 
+2025-12-05 09:30:04.664614 - Gemt butik: Netto Borgmest. Fisch. Vej | 2000 Frederiksberg 
+2025-12-05 09:30:04.671061 - Gemt butik: Netto Peter Bangs Vej | 2000 Frederiksberg 
+2025-12-05 09:30:04.677761 - Gemt butik: Netto Peter Bangs Vej 24-28 | 2000 Frederiksberg 
+2025-12-05 09:30:04.780669 - Indsat 9 offers og produkter for 2000 
+2025-12-05 09:30:04.784595 - Færdig med postnummer: 2000 
+2025-12-06 09:30:06.963531 - === Starter API-kald for postnummer: 2300 === 
+2025-12-06 09:30:08.002458 - HTTP status for 2300 : 200 
+2025-12-06 09:30:08.17901 - Tilbud fundet i 2300 : 20 
+2025-12-06 09:30:08.189883 - DB-forbindelse OK 
+2025-12-06 09:30:08.195697 - Butikker fundet i 2300 : 20 
+2025-12-06 09:30:08.218017 - Gemt butik: Bilka One Stop, Fields | 2300 København S 
+2025-12-06 09:30:08.273413 - Gemt butik: føtex Amagerbrogade | 2300 København S 
+2025-12-06 09:30:08.280878 - Gemt butik: føtex Amager Centret | 2300 København S 
+2025-12-06 09:30:08.286748 - Gemt butik: føtex DR Byen | 2300 København S 
+2025-12-06 09:30:08.29233 - Gemt butik: Netto Chr. Møllers Plads | 2300 København S 
+2025-12-06 09:30:08.298379 - Gemt butik: Netto Kastrupvej | 2300 København S 
+2025-12-06 09:30:08.304007 - Gemt butik: Netto Amagerbrogade, Amagerbro | 2300 København S 
+2025-12-06 09:30:08.309822 - Gemt butik: Netto Bella | 2300 København S 
+2025-12-06 09:30:08.315522 - Gemt butik: Netto Axel Heidesgade Kbh | 2300 København S 
+2025-12-06 09:30:08.322825 - Gemt butik: Netto Sadolinparken | 2300 København S 
+2025-12-06 09:30:08.328505 - Gemt butik: Netto Amagerbrogade, Sundby Vester Pl. | 2300 København S 
+2025-12-06 09:30:08.334632 - Gemt butik: Netto Hollænderdybet | 2300 København S 
+2025-12-06 09:30:08.340431 - Gemt butik: Netto Kirkegaardssvej | 2300 København S 
+2025-12-06 09:30:08.346239 - Gemt butik: Netto Bachersvej | 2300 København S 
+2025-12-06 09:30:08.352031 - Gemt butik: Netto Kongelundsvej | 2300 København S 
+2025-12-06 09:30:08.357837 - Gemt butik: Netto DR Byen | 2300 København S. 
+2025-12-06 09:30:08.363455 - Gemt butik: Netto Islands Brygge | 2300 København 
+2025-12-06 09:30:08.369362 - Gemt butik: Netto Femøren | 2300 København S 
+2025-12-06 09:30:08.375109 - Gemt butik: Netto Royal Arena | 2300 København S. 
+2025-12-06 09:30:08.381102 - Gemt butik: Netto Amagerbrogade Byggenummer | 2300 København S. 
+2025-12-06 09:30:08.626825 - Indsat 20 offers og produkter for 2300 
+2025-12-06 09:30:08.646184 - Færdig med postnummer: 2300 
+2025-12-06 09:30:08.649129 - === Starter API-kald for postnummer: 2200 === 
+2025-12-06 09:30:08.801978 - HTTP status for 2200 : 200 
+2025-12-06 09:30:08.898141 - Tilbud fundet i 2200 : 12 
+2025-12-06 09:30:08.93799 - DB-forbindelse OK 
+2025-12-06 09:30:08.940408 - Butikker fundet i 2200 : 12 
+2025-12-06 09:30:08.948676 - Gemt butik: føtex Nørrebro | 2200 København N 
+2025-12-06 09:30:08.954568 - Gemt butik: Netto Rantzausgade | 2200 København N 
+2025-12-06 09:30:08.960685 - Gemt butik: Netto Tagensvej 85 | 2200 København N 
+2025-12-06 09:30:08.966982 - Gemt butik: Netto Nørrebrogade | 2200 København N 
+2025-12-06 09:30:08.973093 - Gemt butik: Netto Hillerødgade | 2200 København N 
+2025-12-06 09:30:08.979783 - Gemt butik: Netto Tagensvej | 2200 København N 
+2025-12-06 09:30:08.986551 - Gemt butik: Netto Nørrebrogade 170 | 2200 København N 
+2025-12-06 09:30:08.99292 - Gemt butik: Netto Borgmestervangen | 2200 København N 
+2025-12-06 09:30:08.99931 - Gemt butik: Netto Blågårdsgade | 2200 København N 
+2025-12-06 09:30:09.005465 - Gemt butik: Netto Hamletsgade | 2200 København N 
+2025-12-06 09:30:09.011752 - Gemt butik: føtex City Jagtvej | 2200 København N 
+2025-12-06 09:30:09.018411 - Gemt butik: føtex City Nørrebrogade | 2200 København N 
+2025-12-06 09:30:09.173059 - Indsat 12 offers og produkter for 2200 
+2025-12-06 09:30:09.178095 - Færdig med postnummer: 2200 
+2025-12-06 09:30:09.180177 - === Starter API-kald for postnummer: 2100 === 
+2025-12-06 09:30:09.329101 - HTTP status for 2100 : 200 
+2025-12-06 09:30:09.438783 - Tilbud fundet i 2100 : 16 
+2025-12-06 09:30:09.497942 - DB-forbindelse OK 
+2025-12-06 09:30:09.499727 - Butikker fundet i 2100 : 16 
+2025-12-06 09:30:09.523795 - Gemt butik: føtex Østerbro Centret | 2100 København Ø 
+2025-12-06 09:30:09.536494 - Gemt butik: Netto Østerbrogade Kb | 2100 København Ø 
+2025-12-06 09:30:09.543246 - Gemt butik: Netto Øbro | 2100 København Ø 
+2025-12-06 09:30:09.549339 - Gemt butik: Netto Lyngbyvej 34 | 2100 København Ø 
+2025-12-06 09:30:09.555821 - Gemt butik: Netto Amerika Plads | 2100 København Ø 
+2025-12-06 09:30:09.562144 - Gemt butik: Netto Lyngbyvej 165-167 | 2100 København Ø 
+2025-12-06 09:30:09.569026 - Gemt butik: Netto Korsørgade | 2100 København Ø 
+2025-12-06 09:30:09.575263 - Gemt butik: Netto Blegdamsvej 124 | 2100 København Ø 
+2025-12-06 09:30:09.581472 - Gemt butik: Netto Østerbrogade 79 | 2100 København Ø 
+2025-12-06 09:30:09.587741 - Gemt butik: Netto Østerbrogade | 2100 København Ø 
+2025-12-06 09:30:09.593919 - Gemt butik: Netto Studsgaardsgade | 2100 København Ø 
+2025-12-06 09:30:09.600235 - Gemt butik: Netto Nygårdsvej | 2100 København Ø 
+2025-12-06 09:30:09.606372 - Gemt butik: Netto Ndr. Frihavnsgade | 2100 København Ø 
+2025-12-06 09:30:09.612486 - Gemt butik: Netto Æbeløgade | 2100 København Ø 
+2025-12-06 09:30:09.620271 - Gemt butik: Tjæpt Blegdamsvej | 2100 København Ø 
+2025-12-06 09:30:09.626515 - Gemt butik: føtex City Østerbro | 2100 København Ø 
+2025-12-06 09:30:09.853029 - Indsat 16 offers og produkter for 2100 
+2025-12-06 09:30:09.857564 - Færdig med postnummer: 2100 
+2025-12-06 09:30:09.859741 - === Starter API-kald for postnummer: 2000 === 
+2025-12-06 09:30:10.013112 - HTTP status for 2000 : 200 
+2025-12-06 09:30:10.091658 - Tilbud fundet i 2000 : 9 
+2025-12-06 09:30:10.096967 - DB-forbindelse OK 
+2025-12-06 09:30:10.099033 - Butikker fundet i 2000 : 9 
+2025-12-06 09:30:10.107911 - Gemt butik: føtex Nordre Fasanvej | 2000 Frederiksberg 
+2025-12-06 09:30:10.115724 - Gemt butik: føtex Frederiksberg Centret | 2000 Frederiksberg 
+2025-12-06 09:30:10.121853 - Gemt butik: Netto Finsensvej | 2000 Frederiksberg 
+2025-12-06 09:30:10.127675 - Gemt butik: Netto Godthåbsvej 74 | 2000 Frederiksberg 
+2025-12-06 09:30:10.133767 - Gemt butik: Netto Godthåbsvej/Roxy | 2000 Frederiksberg 
+2025-12-06 09:30:10.139675 - Gemt butik: Netto Frederiksberg | 2000 Frederiksberg 
+2025-12-06 09:30:10.14624 - Gemt butik: Netto Borgmest. Fisch. Vej | 2000 Frederiksberg 
+2025-12-06 09:30:10.152317 - Gemt butik: Netto Peter Bangs Vej | 2000 Frederiksberg 
+2025-12-06 09:30:10.158271 - Gemt butik: Netto Peter Bangs Vej 24-28 | 2000 Frederiksberg 
+2025-12-06 09:30:10.262464 - Indsat 9 offers og produkter for 2000 
+2025-12-06 09:30:10.266156 - Færdig med postnummer: 2000 
+2025-12-06 11:23:24.16239 - === Starter API-kald for postnummer: 2300 === 
+2025-12-06 11:23:24.57752 - HTTP status for 2300 : 200 
+2025-12-06 11:23:24.704706 - Tilbud fundet i 2300 : 20 
+2025-12-06 11:23:24.723222 - DB-forbindelse OK 
+2025-12-06 11:23:24.725863 - Butikker fundet i 2300 : 20 
+2025-12-06 11:23:24.740624 - Gemt butik: Bilka One Stop, Fields | 2300 København S 
+2025-12-06 11:23:24.752433 - Gemt butik: føtex Amagerbrogade | 2300 København S 
+2025-12-06 11:23:24.761757 - Gemt butik: føtex Amager Centret | 2300 København S 
+2025-12-06 11:23:24.769198 - Gemt butik: føtex DR Byen | 2300 København S 
+2025-12-06 11:23:24.829656 - Gemt butik: Netto Chr. Møllers Plads | 2300 København S 
+2025-12-06 11:23:24.837771 - Gemt butik: Netto Kastrupvej | 2300 København S 
+2025-12-06 11:23:24.84664 - Gemt butik: Netto Amagerbrogade, Amagerbro | 2300 København S 
+2025-12-06 11:23:24.855341 - Gemt butik: Netto Bella | 2300 København S 
+2025-12-06 11:23:24.862383 - Gemt butik: Netto Axel Heidesgade Kbh | 2300 København S 
+2025-12-06 11:23:24.870497 - Gemt butik: Netto Sadolinparken | 2300 København S 
+2025-12-06 11:23:24.877808 - Gemt butik: Netto Amagerbrogade, Sundby Vester Pl. | 2300 København S 
+2025-12-06 11:23:24.887147 - Gemt butik: Netto Hollænderdybet | 2300 København S 
+2025-12-06 11:23:24.895944 - Gemt butik: Netto Kirkegaardssvej | 2300 København S 
+2025-12-06 11:23:24.911382 - Gemt butik: Netto Bachersvej | 2300 København S 
+2025-12-06 11:23:24.920729 - Gemt butik: Netto Kongelundsvej | 2300 København S 
+2025-12-06 11:23:24.928078 - Gemt butik: Netto DR Byen | 2300 København S. 
+2025-12-06 11:23:24.941426 - Gemt butik: Netto Islands Brygge | 2300 København 
+2025-12-06 11:23:24.953614 - Gemt butik: Netto Femøren | 2300 København S 
+2025-12-06 11:23:24.97405 - Gemt butik: Netto Royal Arena | 2300 København S. 
+2025-12-06 11:23:24.982058 - Gemt butik: Netto Amagerbrogade Byggenummer | 2300 København S. 
+2025-12-06 11:23:25.195682 - Indsat 20 offers og produkter for 2300 
+2025-12-06 11:23:25.201453 - Færdig med postnummer: 2300 
+2025-12-06 11:23:25.205929 - === Starter API-kald for postnummer: 2200 === 
+2025-12-06 11:23:25.443958 - HTTP status for 2200 : 200 
+2025-12-06 11:23:25.531694 - Tilbud fundet i 2200 : 12 
+2025-12-06 11:23:25.576244 - DB-forbindelse OK 
+2025-12-06 11:23:25.579637 - Butikker fundet i 2200 : 12 
+2025-12-06 11:23:25.589442 - Gemt butik: føtex Nørrebro | 2200 København N 
+2025-12-06 11:23:25.605211 - Gemt butik: Netto Rantzausgade | 2200 København N 
+2025-12-06 11:23:25.6136 - Gemt butik: Netto Tagensvej 85 | 2200 København N 
+2025-12-06 11:23:25.62466 - Gemt butik: Netto Nørrebrogade | 2200 København N 
+2025-12-06 11:23:25.636341 - Gemt butik: Netto Hillerødgade | 2200 København N 
+2025-12-06 11:23:25.645573 - Gemt butik: Netto Tagensvej | 2200 København N 
+2025-12-06 11:23:25.656687 - Gemt butik: Netto Nørrebrogade 170 | 2200 København N 
+2025-12-06 11:23:25.667121 - Gemt butik: Netto Borgmestervangen | 2200 København N 
+2025-12-06 11:23:25.675403 - Gemt butik: Netto Blågårdsgade | 2200 København N 
+2025-12-06 11:23:25.686515 - Gemt butik: Netto Hamletsgade | 2200 København N 
+2025-12-06 11:23:25.701205 - Gemt butik: føtex City Jagtvej | 2200 København N 
+2025-12-06 11:23:25.711403 - Gemt butik: føtex City Nørrebrogade | 2200 København N 
+2025-12-06 11:23:25.865874 - Indsat 12 offers og produkter for 2200 
+2025-12-06 11:23:25.873686 - Færdig med postnummer: 2200 
+2025-12-06 11:23:25.877988 - === Starter API-kald for postnummer: 2100 === 
+2025-12-06 11:23:26.113663 - HTTP status for 2100 : 200 
+2025-12-06 11:23:26.204771 - Tilbud fundet i 2100 : 16 
+2025-12-06 11:23:26.211201 - DB-forbindelse OK 
+2025-12-06 11:23:26.214865 - Butikker fundet i 2100 : 16 
+2025-12-06 11:23:26.224205 - Gemt butik: føtex Østerbro Centret | 2100 København Ø 
+2025-12-06 11:23:26.235574 - Gemt butik: Netto Østerbrogade Kb | 2100 København Ø 
+2025-12-06 11:23:26.245198 - Gemt butik: Netto Øbro | 2100 København Ø 
+2025-12-06 11:23:26.259487 - Gemt butik: Netto Lyngbyvej 34 | 2100 København Ø 
+2025-12-06 11:23:26.2674 - Gemt butik: Netto Amerika Plads | 2100 København Ø 
+2025-12-06 11:23:26.27537 - Gemt butik: Netto Lyngbyvej 165-167 | 2100 København Ø 
+2025-12-06 11:23:26.291022 - Gemt butik: Netto Korsørgade | 2100 København Ø 
+2025-12-06 11:23:26.299056 - Gemt butik: Netto Blegdamsvej 124 | 2100 København Ø 
+2025-12-06 11:23:26.307925 - Gemt butik: Netto Østerbrogade 79 | 2100 København Ø 
+2025-12-06 11:23:26.323172 - Gemt butik: Netto Østerbrogade | 2100 København Ø 
+2025-12-06 11:23:26.331962 - Gemt butik: Netto Studsgaardsgade | 2100 København Ø 
+2025-12-06 11:23:26.340451 - Gemt butik: Netto Nygårdsvej | 2100 København Ø 
+2025-12-06 11:23:26.353662 - Gemt butik: Netto Ndr. Frihavnsgade | 2100 København Ø 
+2025-12-06 11:23:26.362155 - Gemt butik: Netto Æbeløgade | 2100 København Ø 
+2025-12-06 11:23:26.370506 - Gemt butik: Tjæpt Blegdamsvej | 2100 København Ø 
+2025-12-06 11:23:26.38113 - Gemt butik: føtex City Østerbro | 2100 København Ø 
+2025-12-06 11:23:26.567184 - Indsat 16 offers og produkter for 2100 
+2025-12-06 11:23:26.573409 - Færdig med postnummer: 2100 
+2025-12-06 11:23:26.577296 - === Starter API-kald for postnummer: 2000 === 
+2025-12-06 11:23:26.746885 - HTTP status for 2000 : 200 
+2025-12-06 11:23:26.816379 - Tilbud fundet i 2000 : 9 
+2025-12-06 11:23:26.824311 - DB-forbindelse OK 
+2025-12-06 11:23:26.827762 - Butikker fundet i 2000 : 9 
+2025-12-06 11:23:26.836698 - Gemt butik: føtex Nordre Fasanvej | 2000 Frederiksberg 
+2025-12-06 11:23:26.848935 - Gemt butik: føtex Frederiksberg Centret | 2000 Frederiksberg 
+2025-12-06 11:23:26.858352 - Gemt butik: Netto Finsensvej | 2000 Frederiksberg 
+2025-12-06 11:23:26.866345 - Gemt butik: Netto Godthåbsvej 74 | 2000 Frederiksberg 
+2025-12-06 11:23:26.876204 - Gemt butik: Netto Godthåbsvej/Roxy | 2000 Frederiksberg 
+2025-12-06 11:23:26.887215 - Gemt butik: Netto Frederiksberg | 2000 Frederiksberg 
+2025-12-06 11:23:26.896755 - Gemt butik: Netto Borgmest. Fisch. Vej | 2000 Frederiksberg 
+2025-12-06 11:23:26.909339 - Gemt butik: Netto Peter Bangs Vej | 2000 Frederiksberg 
+2025-12-06 11:23:26.924021 - Gemt butik: Netto Peter Bangs Vej 24-28 | 2000 Frederiksberg 
+2025-12-06 11:23:27.024756 - Indsat 9 offers og produkter for 2000 
+2025-12-06 11:23:27.031072 - Færdig med postnummer: 2000 
