@@ -6,15 +6,18 @@ library(dplyr)
 library(ggplot2)
 
 # 0) DATA: vælg bedste indikator og klargør
-# antager: fti_regdata og bedste findes fra opgave 1
+# Forudsætter: fti_regdata og bedste findes fra opgave 1
+# - bedste$komb_id peger på den bedste kombination
+# - fti_regdata indeholder: komb_id, KVARTAL, realvækst, indeks
 
 ftiq <- fti_regdata %>%
   filter(komb_id == bedste$komb_id) %>%    # kun bedste kombination
   mutate(tid = KVARTAL) %>%                # tidsmarkør, fx "2000K1"
-  select(tid, realvækst, indeks)           # mål + indikator
+  select(tid, realvækst, indeks) %>%       # mål + indikator
+  drop_na() %>%
+  arrange(tid)
 
-dat <- ftiq %>%
-  drop_na()
+dat <- ftiq
 
 ##############################
 # 1) BASISMODEL (hele perioden)
@@ -58,23 +61,26 @@ cat("  Adj. R²    :", round(sum_post$adj.r.squared, 3),
 # 3) RULLENDE adj. R² (vindue = 40 kvartaler ≈ 10 år)
 ##############################
 
-W <- 40                          # vindueslængde
+W <- 40
 n <- nrow(dat)
-roll_adjR2 <- numeric(n)
+roll_adjR2 <- rep(NA_real_, n)
 
 for (i in seq_len(n)) {
   i1 <- max(1, i - W + 1)
   d  <- dat[i1:i, ]
   
-  # kræv mindst fx 10 observationer for at estimere
+  # kræv mindst 10 observationer for at estimere
   if (nrow(d) >= 10) {
-    m  <- lm(realvækst ~ indeks, data = d)
+    m <- lm(realvækst ~ indeks, data = d)
     roll_adjR2[i] <- summary(m)$adj.r.squared
-  } else {
-    roll_adjR2[i] <- NA
   }
 }
 
+# Lav roll_df (til plot og beregninger)
+roll_df <- data.frame(
+  tid   = dat$tid,
+  adjR2 = roll_adjR2
+)
 
 # Udtræk årstal fra tid-variablen, fx "2005K3" → 2005
 roll_df$year <- as.numeric(substr(roll_df$tid, 1, 4))
@@ -82,8 +88,9 @@ roll_df$year <- as.numeric(substr(roll_df$tid, 1, 4))
 cat("=== Rullende adj. R² (vindue = 40 kvartaler) ===\n")
 cat("Gennemsnitlig adj. R²:", round(mean(roll_df$adjR2, na.rm = TRUE), 3), "\n\n")
 
-# Vælg kun hvert 3. år som label
-year_breaks <- unique(roll_df$year)[seq(1, length(unique(roll_df$year)), by = 3)]
+# Kun hvert 3. år som label
+uniq_years  <- sort(unique(roll_df$year))
+year_breaks <- uniq_years[seq(1, length(uniq_years), by = 3)]
 
 ggplot(roll_df, aes(x = year, y = adjR2, group = 1)) +
   geom_line() +
@@ -98,8 +105,10 @@ ggplot(roll_df, aes(x = year, y = adjR2, group = 1)) +
   ) +
   theme_minimal(base_size = 12)
 
-basis_mod <- lm(realvækst ~ indeks, data = dat)
-basis_sum <- summary(basis_mod)
+##############################
+# 4) (Valgfrit) Vis basis-output igen som objekt (hvis du skal kopiere tal)
+##############################
 
+basis_sum <- summary(model_full)
 basis_sum$adj.r.squared
 basis_sum$coefficients
